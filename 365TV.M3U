@@ -775,7 +775,9 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleuhttps://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="TV | ARGENTINA", C5N | ARG
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV | ARGENTINA", La Nación+| ARG
+#EXTINF:-1 tvg-logo=":https://prnoticias.com/wp-content/uploads/2023/06/net-tv-1.png" group-title="TV | ARGENTINA", NET TV | ARG
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
+#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV | ARGENTINA", La Nación+ | ARG
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="TV | ARGENTINA", A24 | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146369.ts
@@ -1078,6 +1080,13 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100250.mp4
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138032.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_X-852394844-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious X (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162374.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xAJJ56Ifxg79mLl4XtylFVpcFf9.jpg" group-title="SAGAS EPICAS ⭐", Busqueda implacable 1 (2008)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149421.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/inj95Vil7wzQfGkyjpZTZZUhOTR.jpg" group-title="SAGAS EPICAS ⭐", Busqueda implacable 2 (2012)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135868.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/7yGYyoyfU5oz5Oi0hUACJKqtIVW.jpg" group-title="SAGAS EPICAS ⭐", Busqueda implacable 3 (2014)
+http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149422.mkv
 
 - SAW
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg" group-title="SAGAS EPICAS ⭐", SAW 1 (2004)
