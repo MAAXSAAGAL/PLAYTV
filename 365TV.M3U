@@ -20,7 +20,9 @@ http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/8983
 CANAL AMERICA TV HD / SD
 #EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="TV | PERÚ", América TV OP 3 | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3318.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", América TV OP 4 | PE
+#EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="TV | PERÚ", América TV OP 4 | PE
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3319.ts
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", América TV OP 5 | PE
 http://magmas5.com:8000/rances123/9IFBBCRBIX/3319
 
 PANAMERICANA TV HD / SD
