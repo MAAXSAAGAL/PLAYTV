@@ -87,10 +87,12 @@ https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
 https://servilive.com:3244/live/trivutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1-1536x438.png" group-title="TV | PERÚ", Cable Perú TV | PE
 https://video2.lhdserver.es/cableperu/live.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/0/1658343714748?e=2147483647&v=beta&t=GgTyXs0X16Ys4kO_pAAYChKk2ZUGFpbKssOkduyqLEY" group-title="TV | PERÚ", Conecta2 TV | PE
+https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="TV | PERÚ", Via TV | PE
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV | PERÚ", Auténtica TV | PE
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvlatinolibre.com/wp-content/uploads/2023/07/National-Geographic-70.png" group-title="TV | PERÚ", Antares Televisión | PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1vDzCg/InkaTV.jpg" group-title="TV | PERÚ", Inka TV | PE
