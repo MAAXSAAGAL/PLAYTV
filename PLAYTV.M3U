@@ -15,20 +15,13 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/157475
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", America TV (EST) | PE
 http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/chunks.m3u8?nimblesessionid=51528444
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", America TV OP 1 | PE
-http://offshore.lat:8080/live/javierflores@gmail.com/Javier76889/241144.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", America TV OP 2 | PE
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=Bl8mHIbZT7oC6M6M3qbDbUVrnJgaenG1&sid=miTxYfnwsz6pPUUX2ifYmzGW5nENlWU9&pid=cXueYwiscUGVY71lasY2PaJ34RONfhfT&an=screen&at=web-app&av=v5.2.379&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fdevice%3Dtrue&res=400x225&without_cookies=false&listenerid=&dnt=true&access_token=vGwQ85HQAzS51AfCf2syvDHks6BbgkVWg9FmhlNHcmKE8UskPFiinDSfW9P5WHG2kCExfDxAWAR
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", America TV OP 3 | PE
-http://iptvtree.net:8080/supermediatv/kDV7uQaQKRW5XwQd/8983
 
 CANAL AMERICA TV HD / SD
-#EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="TV | PERÚ", América TV OP 4 | PE
+#EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="TV | PERÚ", América TV OP 1 | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3318.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="TV | PERÚ", América TV OP 5 | PE
+#EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="TV | PERÚ", América TV OP 2 | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3319.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", América TV OP 6 | PE
-http://magmas5.com:8000/rances123/9IFBBCRBIX/3319
+
 
 PANAMERICANA TV HD / SD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERÚ", Panamericana TV (ESTABLE)
