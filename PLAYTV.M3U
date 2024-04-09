@@ -68,7 +68,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Usmptv.png" group-title="TV | PERÚ", USMP TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4T9RuHnF42.png" group-title="TV | PERÚ", Karibeña | PE
+#EXTINF:-1 tvg-logo="https://tvone.pe/wp-content/uploads/2024/01/LOGO%20SVG%20TEONE1.svg" group-title="TV | PERÚ", TV One | PE
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sfjFB3/Picsart-23-07-25-21-23-05-997.png" group-title="TV | PERÚ", RPP TV | PE
