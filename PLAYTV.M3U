@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERÚ", Willax TV (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/chunks.m3u8?nimblesessionid=51532761
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQ4Sd5x/Picsart-23-07-25-23-01-58-937.png" group-title="TV | PERÚ", Willax TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQ4Sd5x/Picsart-23-07-25-23-01-58-937.png" group-title="TV | PERÚ", Willax TV OP 1 | PE
 http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/chunks.m3u8?nimblesessionid=51532761
 CANAL LATINA OPCIONES
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="TV | PERÚ", Latina TV (EST)
