@@ -62,8 +62,11 @@ http://iptvpremium.ink:55577/live/angelh3858/658587/163302.ts
 
 
 GLOBAL TV
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mtvf4Kb/Picsart-23-07-25-23-17-21-840.png" group-title="TV | PERÚ", Global TV | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mtvf4Kb/Picsart-23-07-25-23-17-21-840.png" group-title="TV | PERÚ", Global TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Usmptv.png" group-title="TV | PERÚ", USMP TV (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4T9RuHnF42.png" group-title="TV | PERÚ", Karibeña | PE
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
