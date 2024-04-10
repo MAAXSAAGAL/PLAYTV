@@ -336,6 +336,31 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png" group-title="Noticias Internacionales", Canal 26 OPC. 2 | AR
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 
+NOVELAS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png" group-title="Novelas", RCN Novelas
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/137655.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Novelas", Tlnovelas
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9141.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novelas", Univision Novelas OPC. 1
+http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/140866.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novelas", Univision Novelas HD OPC. 2
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4896.ts
+
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b37708b571c33ca51cda637f03871652.png" group-title="Novelas", Telenovelas
+http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/151067.ts
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Novelas", Las Estrellas
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298152.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Novelas", Telemundo Internacional HD 
+http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/49318.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Novelas", Telemundo Internacional HD OP 2
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62720
+
+
+
 
 Peliculas y series en vivo
 
@@ -487,26 +512,6 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3576.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1438px-Canal_RCN_logo_%282%29.svg.png" group-title="Entretenimiento", RCN Internacional | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4811.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png" group-title="Entretenimiento", RCN Novelas
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/137655.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento", Tlnovelas
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9141.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Novelas OPC. 1
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/140866.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Novelas HD OPC. 2
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4896.ts
-
-#EXTINF:-1 tvg-logo="https://logopond.com/logos/b37708b571c33ca51cda637f03871652.png" group-title="Entretenimiento", Telenovelas
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/151067.ts
-
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Entretenimiento", Las Estrellas
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298152.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional HD 
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/49318.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento", Telemundo Internacional HD OP 2
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62720
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Entretenimiento", TLC
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3741.ts
 
