@@ -445,8 +445,8 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 
 Peliculas y series en vivo
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y series en vivo", AXN HD
-http://king.viviotv.xyz:80/andres1/andres1/90825
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y series en vivo", AXN HD (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y series en vivo", AMC HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9083.ts
@@ -487,8 +487,8 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148825.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Películas y series en vivo", Cinecanal | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150092.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas y series en vivo", Sony
-http://138.197.148.50/channel/get.php?id=333332204c41543a20536f6e79&type=master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/240px-Sony_Movies_Logo.svg.png" group-title="Películas y series en vivo", Sony Movies (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Películas y series en vivo", Star Channel
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4944.ts
