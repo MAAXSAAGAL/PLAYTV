@@ -114,82 +114,12 @@ Vision Sur
 http://bantel.iptvperu.tv:1935/astralocal/Vision_Sur/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Bayern x Mónaco**
-https://one.realbitsport.com/live/n-1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Liverpool x SV Darmstadt 98**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL DEPORTE", **Cantolao x Huancayo**
-http://iptvpremium.ink:55577/live/angelh3858/658587/192944.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL FÚTBOL ⚽", **Garcilazo x Municipal**
-https://videos2-h.sendvid.com/hls/f2/f5/4rilqki8.mp4/index-v1-a1.m3u8?validfrom=1691438150&validto=1691452550&rate=180k&ip=181.66.150.100&hdl=-1&hash=bN9vpX9QhqST5SfTK8OV2K%2F%2B0eY%3D
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL FÚTBOL ⚽", LxF **Full**
-https://n9.cl/zahx9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL FÚTBOL ⚽", LxF **Barcelona x Real Madrid**
-http://iptvpremium.ink:55577/live/angelh3858/658587/199644.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbZXNmN/Picsart-23-08-08-14-09-28-912.png" group-title="LOCOS X EL FÚTBOL ⚽", LxF **Independiente x Boca Junior**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS X EL FÚTBOL ⚽", LxF **Arsenal de Sarandí x Racing**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160179.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS X EL FÚTBOL ⚽", LxF **UTC x Unión Comercio**
-http://playhispano.org:8080/userlw/led5120/189562
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS X EL FÚTBOL ⚽", LxF **Real Madrid x Man. United**
-http://iptvpremium.ink:55577/live/angelh3858/658587/199618.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS X EL FÚTBOL ⚽", LxF **Newcastle x Chelsea**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/144815.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **San Lorenzo x Platense**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/137121.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 01**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159942.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 02**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159690.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 03**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161111.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 04**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160179.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 05**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/162486.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 06**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/161110.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 07**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160180.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 08**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/162082.ts
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 10**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159941.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 11**
-http://66.150.67.107:12321/live/cyx_6033288258774519978098687511.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 12**
-https://66.150.67.107:12321/live/cyx_6033288258774519978098687511.ts
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/HLemfpt.md.png" group-title="LOCOS POR EL FÚTBOL ⚽", LxF **EVENTO 13**
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/134466.ts
-
-
 DEPORTES
 
-
+ESPN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN CO | OP 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145423.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwrcQYw/Picsart-23-07-27-23-01-38-733.png" group-title="Deportes", ESPN 2 (EST)
