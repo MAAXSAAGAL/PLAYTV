@@ -18,8 +18,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 http://00322.xyz:8000/rances123/9IFBBCRBIX/157475
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", America TV (EST) | PE
-http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/chunks.m3u8?nimblesessionid=51528444
-
+http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
 CANAL AMERICA TV HD / SD
 #EXTINF:-1 tvg-logo="https://iili.io/HLg7zV2.md.jpg" group-title="TV | PERÚ", América TV OP 1 | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3318.ts
