@@ -72,8 +72,10 @@ http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sfjFB3/Picsart-23-07-25-21-23-05-997.png" group-title="TV | PERÚ", RPP TV | PE
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/187
+NO HAY
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERÚ", Exitosa (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERÚ", Exitosa OPC. 1 | PE
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/295658.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERÚ", Exitosa OPC. 2 | PE
