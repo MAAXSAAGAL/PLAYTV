@@ -412,8 +412,9 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160607.ts
 
 
 NOTICIAS INTERNACIONALES
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg/320px-Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg.png" group-title="Noticias Internacionales", TV Perú Internacional
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg/320px-Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg.png" group-title="Noticias Internacionales", TV Perú Internacional (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/chunks.m3u8?nimblesessionid=51633318
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKDBDzb/Picsart-23-07-27-23-57-19-326.png" group-title="Noticias Internacionales", CNN en Español
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/141351.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Noticias Internacionales", Caracol TV OPC. 1 HD
@@ -666,10 +667,10 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2024.ts
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1087943.png" group-title="Documentales / Culturales", Animal Planet
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/2997.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" group-title="Documentales / Culturales", History
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/2825.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Documentales / Culturales", H2
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3018.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" group-title="Culturales", History
+http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/chunks.m3u8?nimblesessionid=51630280
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Culturales", H2
+http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/chunks.m3u8?nimblesessionid=51631275
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.3dd657ae175a7ab584ef40c1a517e63f.png" group-title="Documentales / Culturales", Universal Cinema
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/158530.ts
@@ -686,9 +687,13 @@ http://playhispano.org:8080/userlw/led5120/128014
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.7d1fe868b7eac121274d6c416298680f.png" group-title="Documentales / Culturales", Universal Premiere
 http://playhispano.org:8080/userlw/led5120/128013
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Documentales / Culturales",  Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Culturales",  Nat Geo Wild HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2012.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Documentales / Culturales",  National Geo HD
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Culturales",  Nat Geo (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Documentales / Culturales",  Nat Geo | OP 1
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2014.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Documentales / Culturales",  Nat Geo Mundo
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2013.ts
