@@ -451,8 +451,13 @@ http://king.viviotv.xyz:80/andres1/andres1/90825
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y series en vivo", AMC HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9083.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y series en vivo", Studio Universal (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y series en vivo", Studio Universal
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3009.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y series en vivo", Universal TV HD
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3012.ts
@@ -489,7 +494,7 @@ http://138.197.148.50/channel/get.php?id=333332204c41543a20536f6e79&type=master.
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4944.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/7977.ts
+http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Edge
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3762.ts
