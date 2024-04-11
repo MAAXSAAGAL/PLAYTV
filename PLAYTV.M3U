@@ -1160,11 +1160,11 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162531.mkv
 
 INICIO PELIS DOCUMENTALES E HISTORIAS
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Gran Turismo: De jugador a corredor (2023)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Criptoestafas (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201924.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Gran Turismo: De jugador a corredor (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/aH2qcRzodM3RYEcT3blgRH8EOdu.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Lionel Messi: Destiny (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/163538.mkv
@@ -1182,19 +1182,22 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/131860.mp4
 
 - INICIO PELICULAS LATINAS 
 
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tnEE7UGGjVOwiZuSotIua72V8rA.jpg" group-title="🍿 LATAM", La ciudad y los perros (1985)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/108384.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/reJmewTkOUX1he9Wb3uR3xfQshV.jpg" group-title="🍿 LATAM", Sin hijos (2020)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/146692.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nQ3aKWzOSXYdqUzjnCL4TN6PkM2.jpg" group-title="🍿 LATAM", La hora final (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102843.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cTPVhPunuuGAOuRyPVpkO0eqRRV.jpg" group-title="🍿 LATAM", Romulo y Julita (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/107354.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6ocLzISGRsrV88tkrDjHnDslRgU.jpg" group-title="🍿 LATAM", Pantaleón y las visitadoras (1999)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109441.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vPXfVqa27Y2eVGHponsGmGiXjH1.jpg" group-title="🍿 LATAM", No me digas solterona (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132350.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/vNBMtAKgYsqHAA5GfyKyMerG9au.jpg" group-title="🍿 LATAM", Django: Sangre de mi sangre (2018)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/124132.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dpaN76VN6fsrNZsENATNiEeDueM.jpg" group-title="🍿 LATAM", Guerrero: La pelicula (2016)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100420.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tnEE7UGGjVOwiZuSotIua72V8rA.jpg" group-title="🍿 LATAM", La ciudad y los perros (1985)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/108384.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6ocLzISGRsrV88tkrDjHnDslRgU.jpg" group-title="🍿 LATAM", Pantaleón y las visitadoras (1999)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109441.mkv
 
 
 INICIO PELICULAS ACCION
