@@ -342,7 +342,7 @@ NOVELAS
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/137655.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Novelas", Tlnovelas
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9141.ts
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novelas", Univision Novelas OPC. 1
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/140866.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novelas", Univision Novelas HD OPC. 2
