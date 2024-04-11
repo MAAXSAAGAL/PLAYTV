@@ -349,10 +349,11 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4896.ts
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Novelas", Las Estrellas
 http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/chunks.m3u8?nimblesessionid=52277975
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="Novelas", Kanal D Drama
-https://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/chunks.m3u8?nimblesessionid=52279549
+http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/chunks.m3u8?nimblesessionid=52279549
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn44yrc/FB-IMG-1712837796259.jpg" group-title="Novelas", Te Quiero TV
-https://bantel.iptvperu.tv:1935/astralocal/TEQUIEROTV/chunks.m3u8?nimblesessionid=52279525
+http://bantel.iptvperu.tv:1935/astralocal/TEQUIEROTV/chunks.m3u8?nimblesessionid=52279525
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Novelas", Telemundo Internacional HD 
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/49318.ts
@@ -390,7 +391,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135670.ts
 2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2826.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y series en vivo", A&E HD
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/5759.ts
+http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8?nimblesessionid=52278483
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="Películas y series en vivo", TNT HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3089.ts
