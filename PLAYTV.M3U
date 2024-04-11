@@ -370,91 +370,89 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62720
 
 Peliculas y series en vivo
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y series en vivo", AXN HD (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y Series en vivo", AXN HD (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y series en vivo", AMC HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y Series en vivo", AMC HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/9083.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y series en vivo", Studio Universal (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y Series en vivo", Studio Universal (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y series en vivo", Studio Universal
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y Series en vivo", Studio Universal
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3009.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y series en vivo", Universal TV HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y Series en vivo", Universal TV HD
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/3012.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y series en vivo", Space HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Películas y Series en vivo", Space HD
 http://king.viviotv.xyz:80/andres1/andres1/90810
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="Películas y series en vivo", Paramount Network
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="Películas y Series en vivo", Paramount Network
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135670.ts
 
 2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2826.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y series en vivo", A&E HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y Series en vivo", A&E HD
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8?nimblesessionid=52278483
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="Películas y series en vivo", TNT HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="Películas y Series en vivo", TNT HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3089.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5987c5e2-c512-4b15-9225-006e0d6d7737_m.jpg" group-title="Películas y series en vivo", Warner Bros TV
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5987c5e2-c512-4b15-9225-006e0d6d7737_m.jpg" group-title="Películas y Series en vivo", Warner Bros TV
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3013.ts
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Películas y series en vivo", Cinemax OP 1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Películas y Series en vivo", Cinemax OP 1
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150094.ts
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Películas y series en vivo", Cinemax OP 2
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="Películas y Series en vivo", Cinemax OP 2
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148825.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Películas y series en vivo", Cinecanal | CO
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Películas y Series en vivo", Cinecanal | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150092.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg" group-title="Películas y series en vivo", Sony Movies (EST)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg" group-title="Películas y Series en vivo", Sony Movies (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Películas y series en vivo", Star Channel
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Películas y Series en vivo", Star Channel
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4944.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden
 http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Edge
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Edge
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3762.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Premier
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Premier
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150102.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y series en vivo", Golden Plus
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Plus
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150101.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Películas y series en vivo", FX
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Películas y Series en vivo", FX
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2824
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="Películas y series en vivo", HBO
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="Películas y Series en vivo", HBO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4961.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y series en vivo", HBO 2 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y Series en vivo", HBO 2 
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4962.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y series en vivo", HBO Family
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y Series en vivo", HBO Family
 https://vsd154.mycdn.me/hls/3978546448980.m3u8/sig/83jxb-pzMwc/expires/1694442995189/srcIp/132.251.2.163/urls/185.226.53.95/clientType/0/srcAg/CHROME_ANDROID/mid/4919282900564/video.m3u8?p
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y series en vivo", HBO Plus
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y Series en vivo", HBO Plus
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4963.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="Películas y series en vivo", HBO Signature
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="Películas y Series en vivo", HBO Signature
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150079.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="Películas y series en vivo", HBO Xtreme
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="Películas y Series en vivo", HBO Xtreme
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135677.ts
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3zqw5ECAlYIU7-tDyo-cOhoEzbOIMvcbuA&usqp=CAU" group-title="Películas y series en vivo", Tu Cine
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3zqw5ECAlYIU7-tDyo-cOhoEzbOIMvcbuA&usqp=CAU" group-title="Películas y Series en vivo", Tu Cine
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/138476.ts
-
-
 
 
 
@@ -932,13 +930,14 @@ https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_202306
 
 - Estrenos
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="ESTRENOS 🗓️", Criptoestafas (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="ESTRENOS 🗓️", Cripto estafas (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201924.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="ESTRENOS 🗓️", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
 
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="ESTRENOS 🗓️", Lift: Un robo de primera clase (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rpzFxv78UvYG5yQba2soO5mMl4T.jpg" group-title="ESTRENOS 🗓️", Nowhere (2023)
@@ -1160,7 +1159,7 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162531.mkv
 
 INICIO PELIS DOCUMENTALES E HISTORIAS
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Criptoestafas (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Cripto estafas (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201924.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Gran Turismo: De jugador a corredor (2023)
@@ -1206,12 +1205,18 @@ INICIO PELICULAS ACCION
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="🍿 ACCION", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="🍿 ACCION", Lift: Un robo de primera clase (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 ACCION", Gran Turismo: De jugador a corredor (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 ACCION", Proyecto Extracción (2023)
-http://iptvpremium.ink:55577/movie/angelh3858/658587/199647.mp4
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/164383.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg" group-title="🍿 ACCION", La Mercenaria (2020)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/123326.mp4
+
 
 INICIO PELÍCULA AVENTURA
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 AVENTURA", Gran Turismo: De jugador a corredor (2023)
@@ -1431,8 +1436,13 @@ http://tv.proyectox.vip:43201/movie/c7audi847v/3b5rShYoDH/264147.mkv
 
 
 -  Crimen
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="🍿 CRIMEN", Criptoestafas (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201924.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="🍿 CRIMEN", Lift: Un robo de primera clase (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rQ1i2Rd24PEQSFbLQ278YVaOuOL.jpg" group-title="🍿 PEL - Crimen", Infiesto (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159650.mkv
@@ -1493,6 +1503,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109739.mkv
 https://ia601502.us.archive.org/33/items/mc-afee-documental/McAfee%20-%20Documental.mp4
 
 - Comedia
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="🍿 COMEDIA", Lift: Un robo de primera clase (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="🍿 COMEDIA", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
