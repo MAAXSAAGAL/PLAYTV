@@ -338,9 +338,6 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 
 NOVELAS
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png" group-title="Novelas", RCN Novelas
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/137655.ts
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Novelas", Tlnovelas
 http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novelas", Univision Novelas OPC. 1
@@ -348,12 +345,9 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/140866.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1600px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novelas", Univision Novelas HD OPC. 2
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4896.ts
 
-#EXTINF:-1 tvg-logo="https://logopond.com/logos/b37708b571c33ca51cda637f03871652.png" group-title="Novelas", Telenovelas
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/151067.ts
-
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Novelas", Las Estrellas
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/298152.ts
+http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/chunks.m3u8?nimblesessionid=52165458
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Novelas", Telemundo Internacional HD 
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/49318.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Novelas", Telemundo Internacional HD OP 2
