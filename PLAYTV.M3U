@@ -123,14 +123,21 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.244368562_ESPN3SUR.png.1e2942d0dacc05c25ea65bfca1c919fb.png" group-title="Deportes", ESPN 3 (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.1522528359_ESPN4_Blanco.png.54b2dc7f4ffd05c520dff4dcab52eec0.png" group-title="Deportes", ESPN 4 (EST)
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="Deportes", ESPN 4 (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6Jy1n8k/Picsart-23-07-27-23-05-17-995.png" group-title="Deportes", ESPN 4 HD
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="Deportes", ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSK9csD/Picsart-23-07-27-23-47-32-935.png" group-title="Deportes", ESPN PREMIUM
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160179.ts
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="Deportes", ESPN 5 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deportes", ESPN 6 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="Deportes", ESPN 7 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQTrYFT/Picsart-23-07-27-17-22-33-692.png" group-title="Deportes", Afizzionados | MX
