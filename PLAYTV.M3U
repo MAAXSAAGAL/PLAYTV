@@ -120,9 +120,11 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwrcQYw/Picsart-23-07-27-23-01-38-733.png" group-title="Deportes", ESPN 2 | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJyZ5Dg/Picsart-23-07-27-23-03-33-453.png" group-title="Deportes", ESPN 3 (EST)
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.244368562_ESPN3SUR.png.1e2942d0dacc05c25ea65bfca1c919fb.png" group-title="Deportes", ESPN 3 (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.1522528359_ESPN4_Blanco.png.54b2dc7f4ffd05c520dff4dcab52eec0.png" group-title="Deportes", ESPN 4 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Jy1n8k/Picsart-23-07-27-23-05-17-995.png" group-title="Deportes", ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
