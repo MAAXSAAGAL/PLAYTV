@@ -992,7 +992,11 @@ http://tv.proyectox.vip:43201/movie/c7audi847v/3b5rShYoDH/264147.mkv
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162752.mkv
 
 
-Películas Sagas
+INICIO SAGAS
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/iy1AY6QYTomZLnMqEaUWPLZRcFg.jpg" group-title="SAGAS EPICAS ⭐", Terminator 1 (1984)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132308.mkv
+
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_todo_gas-493327751-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 1: A todo gas (2001)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94105.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_todo_gas_2-489455297-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 2: Mas rápidos, Mas Furiosos (2003)
@@ -1121,11 +1125,6 @@ http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2149411.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-277223479-large.jpg" group-title="SAGAS EPICAS ⭐", Transformers: El despertar de las bestias (2023)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162752.mkv
 
-
-
-
-- John Wick
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg" group-title="SAGAS EPICAS ⭐", John Wick 1: Otro día para matar (2014)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145711.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3jApZTvbOs7giIM01ddPpFWQagR.jpg" group-title="SAGAS EPICAS ⭐", John Wick 2: Un nuevo día para matar (2017)
@@ -1149,26 +1148,42 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102106.mkv
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162531.mkv
 
 
-- PERUANAS 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tnEE7UGGjVOwiZuSotIua72V8rA.jpg" group-title="🍿 PEL - LATAM", La ciudad y los perros (1985)
+
+
+
+INICIO PELIS DOCUMENTALES E HISTORIAS
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/aH2qcRzodM3RYEcT3blgRH8EOdu.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Lionel Messi: Destiny (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/163538.mkv
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Mumbai Mafia: Policia contra el inframundo (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159446.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/c5tMzS8p1kxsr22BLlxWrfyJ7S8.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Judas y el mesias negro (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/135066.mp4
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/lBo8uOrBwnpPQV8jbJfjsSfH48l.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Diego Maradona (2019)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/131860.mp4
+
+
+- INICIO PELICULAS LATINAS 
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tnEE7UGGjVOwiZuSotIua72V8rA.jpg" group-title="🍿 LATAM", La ciudad y los perros (1985)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/108384.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nQ3aKWzOSXYdqUzjnCL4TN6PkM2.jpg" group-title="🍿 PEL - LATAM", La hora final (2017)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nQ3aKWzOSXYdqUzjnCL4TN6PkM2.jpg" group-title="🍿 LATAM", La hora final (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102843.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cTPVhPunuuGAOuRyPVpkO0eqRRV.jpg" group-title="🍿 PEL - LATAM", Romulo y Julita (2020)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cTPVhPunuuGAOuRyPVpkO0eqRRV.jpg" group-title="🍿 LATAM", Romulo y Julita (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/107354.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6ocLzISGRsrV88tkrDjHnDslRgU.jpg" group-title="🍿 PEL - LATAM", Pantaleón y las visitadoras (1999)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6ocLzISGRsrV88tkrDjHnDslRgU.jpg" group-title="🍿 LATAM", Pantaleón y las visitadoras (1999)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109441.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vPXfVqa27Y2eVGHponsGmGiXjH1.jpg" group-title="🍿 PEL - LATAM", No me digas solterona (2018)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vPXfVqa27Y2eVGHponsGmGiXjH1.jpg" group-title="🍿 LATAM", No me digas solterona (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132350.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dpaN76VN6fsrNZsENATNiEeDueM.jpg" group-title="🍿 PEL - LATAM", Guerrero: La pelicula (2016)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dpaN76VN6fsrNZsENATNiEeDueM.jpg" group-title="🍿 LATAM", Guerrero: La pelicula (2016)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100420.mp4
 
 
-
-
-
-
-- Acción
+INICIO PELICULAS ACCION
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 PEL - Acción", Proyecto Extracción (2023)
