@@ -936,11 +936,16 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201924.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/xrb6lzCC8Ge12Xb7TdjXI3AvSlZ.jpg" group-title="ESTRENOS 🗓️", 60 Minutos (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/204879.mkv
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/dXjSeS3w97setnrNv4m6tlqqXzn.jpg" group-title="ESTRENOS 🗓️", BOSCO (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/208460.mkv
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="ESTRENOS 🗓️", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="ESTRENOS 🗓️", Lift: Un robo de primera clase (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rpzFxv78UvYG5yQba2soO5mMl4T.jpg" group-title="ESTRENOS 🗓️", Nowhere (2023)
@@ -1538,13 +1543,16 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/221689.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 PEL - Romance", Música (2024)
+INCIA ROMANTICAS
 
-
-- Romanticas
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 PEL - ROMANTICAS", Música (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/221689.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="🍿 ROMANTICAS", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="🍿 ROMANTICAS", Pobres criaturas (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215928.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9vMUao1QadZ6OS2UI984tORgGtU.jpg" group-title="🍿 PEL - Romance", Tu casa o la mía (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159738.mp4
@@ -1692,10 +1700,13 @@ https://dn802605.us.archive.org/0/items/ment-3s-p-0d-3r-0s-4s/Libr0_de-la_vid4_i
 
 
 - Ciencia ficción 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="🍿 FICCION | FANTASIA", Pobres criaturas (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215928.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/k9MA7wHFFSh5cas3QnS2IbLrmTW.jpg" group-title="🍿 PEL - Ficción & Fantasia", Bird Box Barcelona (2023)
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/k9MA7wHFFSh5cas3QnS2IbLrmTW.jpg" group-title="🍿 FICCION | FANTASIA", Bird Box Barcelona (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/163349.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg" group-title="🍿 PEL - Ficción & Fantasia", Paradise (2023)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg" group-title="🍿 FICCION | FANTASIA", Paradise (2023)
 https://ia802702.us.archive.org/1/items/par-4-dis-3/PAR4_DIS3.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hIlpA1dWjYwqq8zk7nxntGl5Ur7.jpg" group-title="🍿 PEL - Ficción & Fantasia", Paradoja de Antares (2023)
 https://ia802708.us.archive.org/8/items/la-paradoja-de-antares/La%20Paradoja%20de%20Antares.mp4
@@ -1768,7 +1779,10 @@ https://ia802703.us.archive.org/32/items/mision-rescste-2-accion-2023/el_cuadern
 
 
 - Drama
-INICIO PELÍCULA AVENTURA
+INICIO PELÍCULA DRAMA
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/dXjSeS3w97setnrNv4m6tlqqXzn.jpg" group-title="🍿 DRAMA", BOSCO (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/208460.mkv
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 DRAMA", Gran Turismo: De jugador a corredor (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
 
