@@ -1224,6 +1224,12 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 ACCION", Proyecto Extracción (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/164383.mkv
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg" group-title="🍿 ACCION", Dune 2 (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215019.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1Op57Khovv3ANSWn3TvhMStBboV.jpg" group-title="🍿 ACCION", Dune 1 (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148243.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg" group-title="🍿 ACCION", La Mercenaria (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/123326.mp4
 
@@ -1232,9 +1238,14 @@ INICIO PELÍCULA AVENTURA
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 AVENTURA", Gran Turismo: De jugador a corredor (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 AVENTURA", Proyecto Extracción (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/164383.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 PEL - Aventura", Proyecto Extracción (2023)
-http://iptvpremium.ink:55577/movie/angelh3858/658587/199647.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg" group-title="🍿 AVENTURA", Dune 2 (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215019.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1Op57Khovv3ANSWn3TvhMStBboV.jpg" group-title="🍿 AVENTURA", Dune 1 (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148243.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mN8TsVWd01qjnz9f4DYkw2LPJH6.jpg" group-title="🍿 PEL - Acción", Flash (2023)
 https://archive.org/download/th3Fl45h.-2023.720p-dual-lat/The.Flash.2023.720p-Dual-Lat.mkv
@@ -1496,10 +1507,6 @@ http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162879.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/moIFsMwYL84mCBIHmx4MBB0xkpC.jpg" group-title="🍿 PEL - Historias", Dos contra el hielo (2022)
 http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2095453.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/moIFsMwYL84mCBIHmx4MBB0xkpC.jpg" group-title="🍿 PEL - Aventura", Dos contra el hielo (2022)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2095453.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1Op57Khovv3ANSWn3TvhMStBboV.jpg" group-title="🍿 PEL - Aventura", Duna (2021)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2136060.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dyNtV1iZEztMa2GNpJpze8Irygu.jpg" group-title="🍿 PEL - Historias", Ophelia (2018)
 http://playhispano.org:8080/movie/userlw/led5120/233941.mkv
@@ -1708,6 +1715,13 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215928.mkv
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/163349.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg" group-title="🍿 FICCION | FANTASIA", Paradise (2023)
 https://ia802702.us.archive.org/1/items/par-4-dis-3/PAR4_DIS3.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg" group-title="🍿 FICCION | FANTASIA", Dune 2 (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215019.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1Op57Khovv3ANSWn3TvhMStBboV.jpg" group-title="🍿 FICCION | FANTASIA", Dune 1 (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148243.mp4
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hIlpA1dWjYwqq8zk7nxntGl5Ur7.jpg" group-title="🍿 PEL - Ficción & Fantasia", Paradoja de Antares (2023)
 https://ia802708.us.archive.org/8/items/la-paradoja-de-antares/La%20Paradoja%20de%20Antares.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="🍿 PEL - Ficción & Fantasia", 65: Al borde de la extinción (2023)
