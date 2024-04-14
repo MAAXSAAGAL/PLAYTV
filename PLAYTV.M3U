@@ -383,7 +383,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/chunks.m3u8?nimblesessi
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y Series en vivo", A&E (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8?nimblesessionid=52278483
+http://bantel.iptvperu.tv:1935//transcoder_t4/aye_t4/chunks.m3u8?nimblesessionid=53695618
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="Películas y Series en vivo", TNT HD
 http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3089.ts
