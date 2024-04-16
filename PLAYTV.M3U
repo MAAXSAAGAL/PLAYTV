@@ -39,10 +39,13 @@ http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERÚ", Willax TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/chunks.m3u8?nimblesessionid=51571032
 
-#EXTINF:-1 tvg-logo="https://www.prensadigital.tv/wp-content/uploads/2023/06/nativa-tv-prensa-digtal-1024x810.jpg" group-title="TV | PERÚ", Nativa TV | PE
-https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Hy0eOkx.md.jpg" group-title="TV | PERÚ", Best TV | PE
-https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV | PERÚ", Nativa TV (EST) | PE
+https://www.ntv.pe/salida/nativa.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Hy0eOkx.md.jpg" group-title="TV | PERÚ", Best TV (EST) | PE
+https://mi.godo.net.pe/BesTv-001120zx/index.m3u8?token=68669dc00af4121131a1c4cf4b43d3fb2ea3d600-b3ea8b153a5636365bdf83b20f5d4fa0-1713242324-1713231524&remote=132.251.3.4
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1588595013860134916/2WvjCIKP_400x400.jpg" group-title="TV | PERÚ", Trivu TV | PE
 https://servilive.com:3244/live/trivutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1-1536x438.png" group-title="TV | PERÚ", Cable Perú TV | PE
