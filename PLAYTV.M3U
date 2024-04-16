@@ -23,7 +23,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
 GLOBAL TV
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mtvf4Kb/Picsart-23-07-25-23-17-21-840.png" group-title="TV | PERÚ", Global TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/786px-Global_logo_2019.png" group-title="TV | PERÚ", Global TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Usmptv.png" group-title="TV | PERÚ", USMP TV (EST) | PE
