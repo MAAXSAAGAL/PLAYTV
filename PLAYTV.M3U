@@ -37,10 +37,15 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERÚ", Willax TV (EST) | PE
-http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/chunks.m3u8?nimblesessionid=51571032
+http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png" group-title="Novelas", La Tele
+http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV | PERÚ", Nativa TV (EST) | PE
 https://www.ntv.pe/salida/nativa.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/Hy0eOkx.md.jpg" group-title="TV | PERÚ", Best TV (EST) | PE
 https://mi.godo.net.pe/BesTv-001120zx/index.m3u8?token=68669dc00af4121131a1c4cf4b43d3fb2ea3d600-b3ea8b153a5636365bdf83b20f5d4fa0-1713242324-1713231524&remote=132.251.3.4
@@ -307,8 +312,6 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Novelas", Las Estrellas
 http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png" group-title="Novelas", La Tele
-http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="Novelas", Kanal D Drama
 http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/l_199876_28566102_4760.ts?nimblesessionid=52512561
