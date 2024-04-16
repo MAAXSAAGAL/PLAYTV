@@ -1022,8 +1022,13 @@ TERMINA SAGAS EPICAS
 
 INICIO PELIS DOCUMENTALES E HISTORIAS
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/eTTmTnGxIcdjtAzj1uzPyu1GY0R.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Escuadron Maldito (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222537.mkv
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Cripto estafas (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201924.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Gran Turismo: De jugador a corredor (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
@@ -1161,6 +1166,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148243.mp4
 
 
 INICIA BELICAS
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/eTTmTnGxIcdjtAzj1uzPyu1GY0R.jpg" group-title="🍿 BELICAS", Escuadron Maldito (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222537.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/wZ64CPxqoAeM043s7JaDMC94m6.jpg" group-title="🍿 BELICAS", Una sombra en mi ojo (2021)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/150396.mkv
