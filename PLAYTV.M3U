@@ -46,17 +46,16 @@ https://www.ntv.pe/salida/nativa.m3u8
 https://mi.godo.net.pe/BesTv-001120zx/index.m3u8?token=68669dc00af4121131a1c4cf4b43d3fb2ea3d600-b3ea8b153a5636365bdf83b20f5d4fa0-1713242324-1713231524&remote=132.251.3.4
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1588595013860134916/2WvjCIKP_400x400.jpg" group-title="TV | PERÚ", Trivu TV | PE
-https://servilive.com:3244/live/trivutvlive.m3u8
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1-1536x438.png" group-title="TV | PERÚ", Cable Perú TV | PE
-https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/0/1658343714748?e=2147483647&v=beta&t=GgTyXs0X16Ys4kO_pAAYChKk2ZUGFpbKssOkduyqLEY" group-title="TV | PERÚ", Conecta2 TV | PE
-https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="TV | PERÚ", Via TV | PE
-https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1588595013860134916/2WvjCIKP_400x400.jpg" group-title="TV | PERÚ", Trivu TV (EST) | PE
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1vDzCg/InkaTV.jpg" group-title="TV | PERÚ", Inka TV | PE
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1-1536x438.png" group-title="TV | PERÚ", Cable Perú TV (EST) | PE
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/0/1658343714748?e=2147483647&v=beta&t=GgTyXs0X16Ys4kO_pAAYChKk2ZUGFpbKssOkduyqLEY" group-title="TV | PERÚ", Conecta2 TV (EST) | PE
+http://bantel.iptvperu.tv:1935/astralocal/conecta2tv/playlist.m3u8
+
+
 
 
 PERU REGIONES
