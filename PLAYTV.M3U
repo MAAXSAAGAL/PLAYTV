@@ -16,10 +16,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/tvperu_t1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="TV | PERÚ", ATV HD (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mhvvtTN/Picsart-23-07-27-19-00-55-598.png" group-title="TV | PERÚ", ATV + (EST) | PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1280px-ATV%2B_logo_2020.png" group-title="TV | PERÚ", ATV + (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/209-2091865_2018-logo-atv-sur-logo-png-2018-transparent.png" group-title="TV | PERÚ", ATV Sur (EST) | PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1024px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="TV | PERÚ", ATV Sur (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
 GLOBAL TV
