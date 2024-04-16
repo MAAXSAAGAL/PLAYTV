@@ -587,32 +587,32 @@ https://video-weaver.rio04.hls.ttvnw.net/v1/playlist/CqsF1askl4kyL_fMTfwnk_TuQ-n
 
 KIDS
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="TV | INFANTIL", Discovery Kids (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="Infantil", Discovery Kids
 http://45.166.92.22:58001/play/a04y/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png" group-title="TV | INFANTIL", Cartoonito Kids HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSmvX83/nick-nickelodeon-splat-2023-logo-v2-by-markpipi-dfqz18o-414w-2x.png" group-title="Infantil", Nick (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="TV | INFANTIL", Disney Channel (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/chunks.m3u8?nimblesessionid=53720071
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="TV | INFANTIL", Nickelodeon (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/chunks.m3u8?nimblesessionid=53718358
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png" group-title="TV | INFANTIL", Nick Junior HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34779
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/822px-Nick_Jr._logo_2023.svg.png" group-title="Infantil", Nick Jr (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickjr_t4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="TV | INFANTIL", Teen Nick HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34777
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title="Infantil", Teen Nick (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="TV | INFANTIL", Cartoon Network
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/149673.ts
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="TV | INFANTIL", Cartoon Network OP 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1024px-2019_Disney_Channel_logo.svg.png" group-title="Infantil", Disney Channel (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/disney_t4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1024px-Disney_Junior.svg.png" group-title="Infantil", Disney Jr (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="Infantil", Dreamworks (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="Infantil", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="TV | INFANTIL", Dreamworks (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/chunks.m3u8?nimblesessionid=53722350
 
 
 - *PAKA PAKA
