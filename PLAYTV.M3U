@@ -1022,7 +1022,11 @@ TERMINA SAGAS EPICAS
 
 INICIO PELIS DOCUMENTALES E HISTORIAS
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/eTTmTnGxIcdjtAzj1uzPyu1GY0R.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Escuadron Maldito (2022)
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Shirley (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/219727.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/eTTmTnGxIcdjtAzj1uzPyu1GY0R.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Escuadron Maldito (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222537.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Cripto estafas (2024)
@@ -1167,7 +1171,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148243.mp4
 
 INICIA BELICAS
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/eTTmTnGxIcdjtAzj1uzPyu1GY0R.jpg" group-title="🍿 BELICAS", Escuadron Maldito (2022)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/eTTmTnGxIcdjtAzj1uzPyu1GY0R.jpg" group-title="🍿 BELICAS", Escuadron Maldito (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222537.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/wZ64CPxqoAeM043s7JaDMC94m6.jpg" group-title="🍿 BELICAS", Una sombra en mi ojo (2021)
@@ -1454,6 +1458,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/208460.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fTSdecsQWdWT8IjaMLJ8kgUAzeA.jpg" group-title="🍿 DRAMA", El cazador de bufalos (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/217801.mkv
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" group-title="🍿 DRAMA", Shirley (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/219727.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg" group-title="🍿 DRAMA", Beekeeper: Sentencia de muerte (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206937.mkv
