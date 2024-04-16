@@ -76,6 +76,8 @@ Vision Sur
 #EXTINF:-1 tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="TV | PERÚ (REG)", Vision Sur | PE
 http://bantel.iptvperu.tv:1935/astralocal/Vision_Sur/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="TV | PERÚ (REG)", Ucayali TV | PE
+http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 
 DEPORTES
 
