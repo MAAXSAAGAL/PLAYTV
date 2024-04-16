@@ -337,10 +337,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m
 http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="Películas y Series en vivo", Paramount Channel (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/chunks.m3u8?nimblesessionid=53694707
+http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y Series en vivo", A&E (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8?nimblesessionid=53695618
+http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" group-title="Películas y Series en vivo", Cine Premium (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
