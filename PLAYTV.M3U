@@ -416,13 +416,12 @@ http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/4783.ts
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/155962.ts
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGDr-KfTsgk/YEEw-FunY-I/AAAAAAACBgY/g56bZFFZgsgHfm0NuC1ydH_OnLzvcl5iACLcBGAsYHQ/w640-h360/lifetime.jpg" group-title="Entretenimiento", Lifetime
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/154827.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGDr-KfTsgk/YEEw-FunY-I/AAAAAAACBgY/g56bZFFZgsgHfm0NuC1ydH_OnLzvcl5iACLcBGAsYHQ/w640-h360/lifetime.jpg" group-title="Entretenimiento", Lifetime (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/lifetime_t4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png" group-title="Entretenimiento", El gourmet
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135878.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Entretenimiento", Sony Novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="Entretenimiento", TNT Novelas
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/162944.ts
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/imagen_2023-02-12_182419374.png.fc5271ef173e1418d55b077963faf6b9.png" group-title="Entretenimiento", TNT Series
