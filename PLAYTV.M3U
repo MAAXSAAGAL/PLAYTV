@@ -329,21 +329,29 @@ Peliculas y series en vivo
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y Series en vivo", AXN HD (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="Películas y Series en vivo", AMC HD
-
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y Series en vivo", Studio Universal (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y Series en vivo", Universal TV (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/chunks.m3u8?nimblesessionid=53693544
+http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="Películas y Series en vivo", Paramount Channel (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/chunks.m3u8?nimblesessionid=53694707
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y Series en vivo", A&E (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8?nimblesessionid=53695618
+
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" group-title="Películas y Series en vivo", Cine Premium (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png" group-title="Películas y Series en vivo", Cine Familiar (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal-1024x576.png" group-title="Películas y Series en vivo", Cine Hispano (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" group-title="Películas y Series en vivo", TNT HD
