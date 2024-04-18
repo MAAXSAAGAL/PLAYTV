@@ -118,11 +118,12 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2SYvpg/Picsart-23-07-27-21-50-42-938.png" group-title="Deportes", GOL Perú (EST)
-http://bantel.iptvperu.tv:1935/astra/golperu/chunks.m3u8?nimblesessionid=52435514
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b2SYvpg/Picsart-23-07-27-21-50-42-938.png" group-title="Deportes", GOL Perú | OP 1
 http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2SYvpg/Picsart-23-07-27-21-50-42-938.png" group-title="Deportes", GOL Perú | OP 1
+http://bantel.iptvperu.tv:1935/astra/golperu/chunks.m3u8?nimblesessionid=52435514
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQTrYFT/Picsart-23-07-27-17-22-33-692.png" group-title="Deportes", Afizzionados | MX
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145474.ts
