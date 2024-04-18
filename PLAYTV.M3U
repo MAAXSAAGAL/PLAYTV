@@ -276,33 +276,8 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/160607.ts
 
 NOTICIAS INTERNACIONALES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg/320px-Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg.png" group-title="Noticias Internacionales", TV Perú Internacional (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/chunks.m3u8?nimblesessionid=51633318
+http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKDBDzb/Picsart-23-07-27-23-57-19-326.png" group-title="Noticias Internacionales", CNN en Español
-http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/141351.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Noticias Internacionales", Caracol TV OPC. 1 HD
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3162.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Noticias Internacionales", Caracol TV OPC. 2 HD
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8351.ts
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6c5d6466-2ab2-4bf7-9e4d-79b156e08823-profile_image-150x150.png" group-title="Noticias Internacionales", Mega HD | CL
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8971.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="Noticias Internacionales", América TV | ARG
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/137746.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tn_m.png" group-title="Noticias Internacionales", Todo Noticias | AR
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png" group-title="Noticias Internacionales", 247 Noticias HD | AR
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_deutsche-welle-amerika_m.png" group-title="Noticias Internacionales", DW Español | LAT
-http://2.magmas5.com:8000/rances123/9IFBBCRBIX/141388
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png" group-title="Noticias Internacionales", Canal 26 OPC. 1 | AR
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png" group-title="Noticias Internacionales", Canal 26 OPC. 2 | AR
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/3190.ts
 
 NOVELAS
 
@@ -366,56 +341,31 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150094.ts
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148825.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Películas y Series en vivo", Cine Canal (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/chunks.m3u8?nimblesessionid=53701348
+http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg" group-title="Películas y Series en vivo", Sony Movies (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Películas y Series en vivo", Star Channel (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/chunks.m3u8?nimblesessionid=53704351
+http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Edge
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3762.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Premier
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150102.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Plus
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150101.ts
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Películas y Series en vivo", FX (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/chunks.m3u8?nimblesessionid=53705366
+http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="Películas y Series en vivo", HBO
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4961.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y Series en vivo", HBO 2 
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4962.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y Series en vivo", HBO Family
 https://vsd154.mycdn.me/hls/3978546448980.m3u8/sig/83jxb-pzMwc/expires/1694442995189/srcIp/132.251.2.163/urls/185.226.53.95/clientType/0/srcAg/CHROME_ANDROID/mid/4919282900564/video.m3u8?p
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y Series en vivo", HBO Plus
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/4963.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="Películas y Series en vivo", HBO Signature
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150079.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="Películas y Series en vivo", HBO Xtreme
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135677.ts
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3zqw5ECAlYIU7-tDyo-cOhoEzbOIMvcbuA&usqp=CAU" group-title="Películas y Series en vivo", Tu Cine
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/138476.ts
 
 
 
 ENTRETENIMIENTO
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/12d5eb2a710a0aed3878d6f52a859965985a7de38b5a48714cd8fdb87b049429.png" group-title="Entretenimiento", Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Entretenimiento", Comedy Central 
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/150323.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
@@ -481,73 +431,24 @@ http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/8955.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Entretenimiento", Ve Plus | VEN
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/151671.ts
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png" group-title="Entretenimiento", VTV Canal | VEN
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sy-fy_m.png" group-title="Entretenimiento", Syfy HD
 http://magmas5.com:8000/live/saabj84/CNGUPDY6RA/150105.ts
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/290/035/large_2x/online-tv-channel-logo-design-template-tv-icon-white-play-button-live-streaming-entertainment-company-antenna-yellow-orange-black-vector.jpg" group-title="Entretenimiento", ZF Canal
-https://v4.tustreaming.cl/atmtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Entretenimiento", Music TOP
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3552.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV Live
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146540.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV HD
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146538.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png" group-title="Entretenimiento", MTV
-http://00322.xyz:8000/rances123/9IFBBCRBIX/4856
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV OPC. 1
-http://00322.xyz:8000/saabj84/CNGUPDY6RA/4975
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg" group-title="Entretenimiento", HTV OPC. 2
-http://00322.xyz:8000/saabj84/CNGUPDY6RA/2078
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Best_Cable_Music.png" group-title="Entretenimiento", Best Cable Music
-https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Best_Cable_Music.png" group-title="Entretenimiento", Best Cable +Cumbia
-https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/vision-tv-musica.png" group-title="Entretenimiento", Visión Musica TV
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1113789722.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flim9-1.fna.fbcdn.net/v/t39.30808-6/309274942_177945681412268_4363122040107387411_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=104&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoibyJ9&_nc_eui2=AeF1v-yH9vf4rJsT_dDElk_OHNJ63Ooo_Bkc0nrc6ij8GVx4EB1dZxglJ0O3hfhMmHsIyJc1SJusHlnH3qGfyh1n&_nc_ohc=4LYhCOdlNMcAX9Yk7qn&_nc_ad=z-m&_nc_cid=0&_nc_rml=0&_nc_ht=scontent.flim9-1.fna&oh=00_AfAGmd1MfjvXO2Afhb4LTPJ3sy-qgeOzKbXiv_tSa6JaWA&oe=64CA3504" group-title="Entretenimiento", Planeta TV
-https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 DOCUMENTAL Y CULTURAL
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_discovery-channel_m.png" group-title="Documentales / Culturales", Discovery HD
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2024.ts
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1087943.png" group-title="Documentales / Culturales", Animal Planet
-http://iptvtree.net:8080/live/supermediatv/kDV7uQaQKRW5XwQd/2997.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" group-title="Culturales", History (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Culturales", H2 (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Culturales",  Nat Geo Wild HD
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2012.ts
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Culturales",  Nat Geo (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Documentales / Culturales",  Nat Geo | OP 1
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2014.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Documentales / Culturales",  Nat Geo Mundo
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/2013.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRYhVnr/Picsart-23-06-24-23-25-04-357.jpg" group-title="Documentales / Culturales",  ID Discovery 
-https://video-weaver.rio04.hls.ttvnw.net/v1/playlist/CqsF1askl4kyL_fMTfwnk_TuQ-nvFaDYp4ufTVqmlRWnGtqTwdmJMpQbt_fqW6AZCOFtBFA7tWnj7SqmCE19sliczEvit8taFormntn38U7EeF6OaJHKD-0yMHtdp987Z0KO1BRFd38AZQ0n-hBTSAk41neKGokNeNKhd-N9AEABcC0njXv88rms1fKycSk2A0PohsqV83KfAD28W2bAuGm38uL_yr0czUgmUK5eprPHeWRo146nZqNgWCaAUz8SKrzi5bSYTeTp2FXBhkxl_hmSpYHQpPucbODplTqMkc9YtDnNuc1DRImOxISIzmKHElbHnjCQNKYeZDSaPJyfDSI5-W9C_Wujb2ODp9tUhm7oXupyMftabOmhQTXpKz7_xJ0rIc6cyATx-DIlvkNjbRc0oAFe9mQJOdfXcVPwYZcIeXGxe1sENwHfX3mP0xec2Sk4B-QF802gMwfq4Hd7uWiONL9LtB6MTOJ4Xr0IdUoT7Yb2FprnrR2iAgGdWK44r0KU04hlwW6zpMwjhOPPjG_5DGu7zFo75kC2FC6f4wkz3KtA2CJusCr4SC8QkJYtHwEYWDB6J-fSHLfzXvfpW19hKgr1vbiuqkiU46IVPuMYaWaI9uNdKS6JvEpK8cuPPU4vg_hgnZxb-X7RBP0JEcDEYbYZFGXFecqtvJ5LaU5jDBTtUGkveFcgdGz1YPd958kX07h-kzM8y604gqzmGZK977DmnfZXHbYeXRwALdo6PQS2T90bkci_x-a6r9WLACC0zHSpmORFAskjupfmw7CdScNrYsYgjtWtfzvNfjtFDUqvAW-6Jy-ikqDW68iaH7Tne8Lu7GiG8ixrbP0tB62O3NcDInBp5NB16rRqoNcx5bqWzwqs473LKeg56awCBuLImLakETMBbi9r1RkaDO62tKLC7DyG-T8yQSABKglldS13ZXN0LTIwuQc.m3u8
 
 
 KIDS
@@ -576,23 +477,19 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="Infantil", Dreamworks (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png" group-title="Infantil", Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
-
-
-- *PAKA PAKA
-https://www.youtube.com/user/CanalPakapaka/live
 
 - Religión
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="TV | RELIGION", BHTV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Religion", BHTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="TV | RELIGION", MovieFe
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="Religion", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="TV | RELIGION", MovieFe
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" group-title="Religion", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w427647087.m3u8
 
-#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg" group-title="TV | RELIGION", TeleVida Network
+#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg" group-title="Religion", TeleVida Network
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/chunklist_w449945295.m3u8
+
+
 
 - Canales Argentina
 #EXTINF:-1 tvg-logo="https://tvctepa.com/img/svg%20canales/AGROTENDENCIA.svg" group-title="TV | ARGENTINA", Agrotendencia | ARG
