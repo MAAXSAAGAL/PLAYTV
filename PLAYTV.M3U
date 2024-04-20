@@ -249,6 +249,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/SYFY_t5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/MTV_t4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hola-tv_m.png" group-title="Entretenimiento", Hola! TV (EST)
+http://clubtv.link/ab1904/key4513/lista8.php?c=a03l&token=tecnotvGeneradorTV&f=.m3u8
+
+
 
 DOCUMENTAL Y CULTURAL
 
