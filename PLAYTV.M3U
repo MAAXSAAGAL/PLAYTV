@@ -2856,7 +2856,11 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCGYVRT02EP22.mkv
 
 
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/hYo9W9bd8jCskDnJNBczR6OYLFo.jpg" group-title="🎬 ALMAS ROBADAS T1", 
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/220312.mkv
 
+#EXTINF:-1 tvg-logo="https://static.filmin.es/images/es/media/50068/3/still_0_3_1080x0.jpg" group-title="🎬 ALMAS ROBADAS T1", T1 E1
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/220312.mkv
 
 
 #PLAYLISTV: pltv-logo="https://doity.com.br/media/doity/eventos/evento-7073-logo_organizador.jpeg" pltv-name="KRISTIANO-IPTV" pltv-description="CANAIS,FILMES E SERIES" 
