@@ -255,6 +255,9 @@ http://bantel.iptvperu.tv:1935/transcoderip/MTV_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hola-tv_m.png" group-title="Entretenimiento", Hola! TV (EST)
 http://clubtv.link/ab1904/key4513/lista8.php?c=a03l&token=tecnotvGeneradorTV&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/206-2060818_logo-top-latino-png-top-latino-tv-logo.png" group-title="Entretenimiento", Top Latino (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1/playlist.m3u8
+
 
 
 DOCUMENTAL Y CULTURAL
