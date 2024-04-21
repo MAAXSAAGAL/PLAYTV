@@ -7,10 +7,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/latina_t1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", America TV (EST) | PE
 http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERÚ", Panamericana TV (ESTABLE)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERÚ", Panamericana TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERÚ", TV Perú HD | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERÚ", TV Perú (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/tvperu_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="TV | PERÚ", ATV HD (EST) | PE
@@ -35,6 +35,9 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERÚ", Exitosa (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/16878.png" group-title="TV | PERÚ", Karibeña (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERÚ", Willax TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
