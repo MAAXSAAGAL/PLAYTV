@@ -258,6 +258,9 @@ http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582-1024x346.png" group-title="Entretenimiento", Mi Musica Salsa (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/mimusica_reggaeton-e1684536394429.jpeg" group-title="Entretenimiento", Mi Musica Reggaeton (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582-1024x346.png" group-title="Entretenimiento", Mi Musica Romantica (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/playlist.m3u8
 
