@@ -281,6 +281,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/lifetime_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGDr-KfTsgk/YEEw-FunY-I/AAAAAAACBgY/g56bZFFZgsgHfm0NuC1ydH_OnLzvcl5iACLcBGAsYHQ/w640-h360/lifetime.jpg" group-title="Entretenimiento", H&H Discovery (EST)
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="Entretenimiento", Turbo Discovery (EST)
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://comunidaria.com/wp-content/uploads/2023/08/nbcuniversal-lanza-usa-network-en-peru.jpg" group-title="Entretenimiento", USA (HD)
 http://bantel.iptvperu.tv:1935/transcoderip/SYFY_t5.stream/playlist.m3u8
 
