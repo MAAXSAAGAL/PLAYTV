@@ -242,6 +242,12 @@ ENTRETENIMIENTO
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/12d5eb2a710a0aed3878d6f52a859965985a7de38b5a48714cd8fdb87b049429.png" group-title="Entretenimiento", Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/928400815_DistritoComedia.png.e94692cebd4eb064dbaa7158e8ff45a4.png" group-title="Entretenimiento", Distrito Comedia
+http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_el-gourmet_m.png" group-title="Entretenimiento", El Gourmet
+http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="Entretenimiento", E! entertainment (EST)
 http://bantel.iptvperu.tv:1935/miscelaneos/e.stream/playlist.m3u8
 
@@ -251,8 +257,10 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGDr-KfTsgk/YEEw-FunY-I/AAAAAAACBgY/g56bZFFZgsgHfm0NuC1ydH_OnLzvcl5iACLcBGAsYHQ/w640-h360/lifetime.jpg" group-title="Entretenimiento", Lifetime (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/lifetime_t4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGDr-KfTsgk/YEEw-FunY-I/AAAAAAACBgY/g56bZFFZgsgHfm0NuC1ydH_OnLzvcl5iACLcBGAsYHQ/w640-h360/lifetime.jpg" group-title="Entretenimiento", H&H Discovery (EST)
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://comunidaria.com/wp-content/uploads/2023/08/nbcuniversal-lanza-usa-network-en-peru.jpg" group-title="Entretenimiento", Usa (HD)
+#EXTINF:-1 tvg-logo="https://comunidaria.com/wp-content/uploads/2023/08/nbcuniversal-lanza-usa-network-en-peru.jpg" group-title="Entretenimiento", USA (HD)
 http://bantel.iptvperu.tv:1935/transcoderip/SYFY_t5.stream/playlist.m3u8
 
 
