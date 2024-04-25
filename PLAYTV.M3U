@@ -128,8 +128,11 @@ http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2SYvpg/Picsart-23-07-27-21-50-42-938.png" group-title="Deportes", GOL Perú | OP 1
 http://bantel.iptvperu.tv:1935/astra/golperu/chunks.m3u8?nimblesessionid=52435514
 
+#EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/directv-4406.jpg" group-title="Deportes", Directv Sports
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQTrYFT/Picsart-23-07-27-17-22-33-692.png" group-title="Deportes", Afizzionados | MX
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145474.ts
+http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max (EST) | PE
@@ -147,8 +150,6 @@ http://home-playtv.com:8080/live/102ronald000/CPJQD/499709.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="Deportes", Gol Perú (EST)
 http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 
@@ -157,6 +158,12 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/132289.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/800px-CG_logo_final.svg.png" group-title="Deportes", Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="Deportes", Claro Sports | MX
+http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
+
+
+
 
 NOTICIAS INTERNACIONALES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg/320px-Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg.png" group-title="Noticias Internacionales", TV Perú Internacional (EST)
