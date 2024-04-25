@@ -319,6 +319,10 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="Infantil", Dreamworks (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cartoon-network5254.jpg" group-title="Infantil", Cartoon Network (EST)
+http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
+
+
 
 - Religión
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Religion", BHTV
