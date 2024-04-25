@@ -192,7 +192,7 @@ http://bantel.iptvperu.tv:1935/astralocal/TEQUIEROTV/playlist.m3u8
 
 Peliculas y series en vivo
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y Series en vivo", AXN HD (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y Series en vivo", AXN (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y Series en vivo", Studio Universal (EST)
@@ -245,7 +245,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Premier (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/s280/HBO-plus-2019.png" group-title="Películas y Series en vivo", HBO Plus (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="Películas y Series en vivo", HBO Plus (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" group-title="Películas y Series en vivo", HBO Family (EST)
