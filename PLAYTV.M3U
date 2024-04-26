@@ -612,8 +612,13 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 - Estrenos
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg" group-title="ESTRENOS 🗓️", Jade: Guerrera Solitaria (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224221.mkv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1bgsFc/Picsart-24-04-22-16-42-57-691.png" group-title="ESTRENOS 🗓️", Kung Fu Panda 4 (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/220553.mp4
+
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/nif2JUyqNQBBmMYrDfmpTgwleOJ.jpg" group-title="ESTRENOS 🗓️", Un ladron romantico (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/218350.mkv
 
@@ -881,6 +886,11 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201930.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/eCbNscxh1Em6iDA3n64ZSceHc7N.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", El cielo no puede esperar (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162921.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/dl1twEgiX6xC9hZNzek9Nxv5ax9.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", 1618 (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224212.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/7ExJBIbPq4MjqcybT81ImzkZy3s.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", John McAfee: Vivir sin freno (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/155448.mkv
@@ -1285,6 +1295,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/219727.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg" group-title="🍿 DRAMA", Beekeeper: Sentencia de muerte (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206937.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/dl1twEgiX6xC9hZNzek9Nxv5ax9.jpg" group-title="🍿 DRAMA", 1618 (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224212.mkv
+
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg" group-title="🍿 DRAMA", Dogman (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/161890.mkv
