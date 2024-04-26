@@ -921,7 +921,8 @@ http://playhispano.org:8080/movie/userlw/led5120/233941.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/gk6IErM0acV6HJRwKZy8ecBoddc.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Bohemian Rhapsody (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109739.mkv
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7LF950LVCcqboyHzCS0wgRALksK.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", El hombre del corazon de hierro (2017)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222534.mkv
 
 
 - INICIO PELICULAS LATINAS 
@@ -990,6 +991,8 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138178.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/ur1wCiFEwZzjehqQM11FFN66rwL.jpg" group-title="🍿 ACCION", Bad Boys para siempre (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109430.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7LF950LVCcqboyHzCS0wgRALksK.jpg" group-title="🍿 ACCION", El hombre del corazon de hierro (2017)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222534.mkv
 
 
 INICIO PELÍCULA AVENTURA
@@ -1023,7 +1026,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162268.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/Au0rQeWo9OrEJiZPYC0zJYv7fX8.jpg" group-title="🍿 PEL - Bélicas", Sin novedad en el frente (2022)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/Au0rQeWo9OrEJiZPYC0zJYv7fX8.jpg" group-title="🍿 BELICAS", Sin novedad en el frente (2022)
 http://tv.proyectox.vip:8080/movie/c7audi847v/3b5rShYoDH/265474.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="🍿 BELICAS", Dunkerque (2017)
@@ -1057,6 +1060,11 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/125636.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mu2CPpT2XUVgsDEdtcelXhq5DwH.jpg" group-title="🍿 BELICAS", La corresponsal (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159746.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7LF950LVCcqboyHzCS0wgRALksK.jpg" group-title="🍿 BELICAS", El hombre del corazon de hierro (2017)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222534.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg" group-title="🍿 BELICAS", Sin retorno (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137335.mp4
