@@ -606,14 +606,6 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", Adquiere NETFLIX
-https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", Adquiere PRIME VIDEO
-https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbomax6183.jpg" group-title="COMPRAR CUENTA", Adquiere HBO MAX
-https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
-
-
 - Estrenos
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1bgsFc/Picsart-24-04-22-16-42-57-691.png" group-title="ESTRENOS 🗓️", Kung Fu Panda 4 (2024)
@@ -1700,6 +1692,17 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/149065.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/o14jmkwnLD7227okDMjZKfqNId8.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", Destino Final 5 (2011)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/149062.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/netflix4627.jpg" group-title="COMPRAR CUENTA", Adquiere NETFLIX
+https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="COMPRAR CUENTA", Adquiere PRIME VIDEO
+https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbomax6183.jpg" group-title="COMPRAR CUENTA", Adquiere HBO MAX
+https://ia802706.us.archive.org/7/items/in-shot-20230625-042139790/InShot_20230625_042139790.mp4
+
+
 
 
 INICIA SERIES
