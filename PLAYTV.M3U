@@ -128,8 +128,15 @@ http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2SYvpg/Picsart-23-07-27-21-50-42-938.png" group-title="Deportes", GOL Perú | OP 1
 http://bantel.iptvperu.tv:1935/astra/golperu/chunks.m3u8?nimblesessionid=52435514
 
+#EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" group-title="Deportes", Bein Sports Xtra Ñ (EST)
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/directv-4406.jpg" group-title="Deportes", Directv Sports
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pateandolimites.com/wp-content/uploads/2021/09/DEPORTV_logo.jpg" group-title="Deportes", Deportv
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQTrYFT/Picsart-23-07-27-17-22-33-692.png" group-title="Deportes", Afizzionados | MX
 http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
