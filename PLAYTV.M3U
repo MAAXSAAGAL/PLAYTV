@@ -199,8 +199,8 @@ http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn44yrc/FB-IMG-1712837796259.jpg" group-title="Novelas", Te Quiero TV (EST)
 http://bantel.iptvperu.tv:1935/astralocal/TEQUIEROTV/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2019/11/19152919/LA-ROSA-DE-GUADALUPE-480X480.png" group-title="Novelas", La Rosa de Guadalupe (EST)
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 
 
@@ -236,7 +236,7 @@ http://bantel.iptvperu.tv:1935/astra/Classic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="Películas y Series en vivo", FMH Movies (EST)
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="Películas y Series en vivo", TNT (EST)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="Películas y Series en vivo", TNT SD
 http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Películas y Series en vivo", Cine Canal (EST)
