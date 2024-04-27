@@ -213,8 +213,6 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y Series en vivo", Universal TV (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="Películas y Series en vivo", Paramount Channel (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
@@ -262,6 +260,11 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Premier (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Películas y Series en vivo", HBO 2
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="Películas y Series en vivo", HBO Plus (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 
@@ -270,6 +273,10 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Películas y Series en vivo", FX (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y Series en vivo", Universal TV (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" group-title="Películas y Series en vivo", Universal Premiere (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
