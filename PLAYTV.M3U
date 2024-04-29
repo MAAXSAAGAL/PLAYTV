@@ -87,6 +87,12 @@ http://bantel.iptvperu.tv:1935/astralocal/Vision_Sur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wpVktkr/Picsart-24-04-15-21-29-39-012.png" group-title="TV | PERÚ (REG)", Ucayali TV | PE
 http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 
+
+EVENTO DEPORTIVO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wpVktkr/Picsar4-04-15-21-29-39-012.png" group-title="TV | EVENTOS", SAO vs PAL
+https://delta03.dlive.click/bb2FkVrU4eyWsC0QV7BQxA/1714462388/3133322e3235312e332e313532/ff496/playlist.m3u8
+
+
 DEPORTES
 
 ESPN
