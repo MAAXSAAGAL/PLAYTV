@@ -195,7 +195,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
 
 NOVELAS
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4N99R5/novelisima-DOTT23.png" group-title="Novelas", Novelisima (EST)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4N99R5/novelisima-DOTT23.png" group-title="Novelas", Novelisima SD
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 
@@ -281,6 +281,10 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="Películas y Series en vivo", HBO Plus (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.png" group-title="Películas y Series en vivo", HBO Signature (EST)
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" group-title="Películas y Series en vivo", HBO Family (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
 
@@ -326,6 +330,9 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="Entretenimiento", World Discovery (EST)
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID Discovery (EST)
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="Entretenimiento", Turbo Discovery (EST)
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
 
@@ -366,8 +373,10 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Culturales", H2 (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="Culturales",  Nat Geo (EST)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="Culturales",  Nat Geo (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
+
+
 
 
 KIDS
