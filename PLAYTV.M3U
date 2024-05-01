@@ -89,8 +89,7 @@ http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 
 
 EVENTO DEPORTIVO
-#EXTINF:-1 tvg-logo="https://www.softwarecongresos.es/wp-content/uploads/2022/04/ISOLOGO-MONOCROMIA-NEGRO-1-e1650275689535.png" group-title="TV | EVENTOS", SAO vs PAL
-https://delta03.dlive.click/bb2FkVrU4eyWsC0QV7BQxA/1714462388/3133322e3235312e332e313532/ff496/playlist.m3u8
+
 
 
 DEPORTES
@@ -170,8 +169,12 @@ http://home-playtv.com:8080/live/102ronald000/CPJQD/499709.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="Deportes", Gol Perú (EST)
 http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_olperu.png" group-title="Deportes", Movistar Deportes (EST)
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/132289.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="Deportes", Win Sports (EST)
+http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tyc-sports_m.png" group-title="Deportes", TyC Sports (EST)
+http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/800px-CG_logo_final.svg.png" group-title="Deportes", Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
@@ -179,7 +182,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="Deportes", Claro Sports | MX
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="Deportes", TVMax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="Deportes", TVMax | PA
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
@@ -645,7 +648,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/gQw6UuHnbRTwM1UYINZYDHEqSwZ.jpg" group-title="ESTRENOS 🗓️", Amor perruno (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224165.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg" group-title="ESTRENOS 🗓️", Jade: Guerrera Solitaria (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg" group-title="ESTRENOS 🗓️", Jade (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224221.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1bgsFc/Picsart-24-04-22-16-42-57-691.png" group-title="ESTRENOS 🗓️", Kung Fu Panda 4 (2024)
@@ -663,7 +666,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224218.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg" group-title="ESTRENOS 🗓️", Orion y la oscuridad (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/208465.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/73wQy0eqijesk0y0wbLUiw5wVZN.jpg" group-title="ESTRENOS 🗓️", Aguas siniestras (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/73wQy0eqijesk0y0wbLUiw5wVZN.jpg" group-title="ESTRENOS 🗓️", La piscina (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206588.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6cKzsWfDtGj5BMHi1dN9EkGz4lJ.jpg" group-title="ESTRENOS 🗓️", El salario del miedo (2024)
@@ -688,7 +691,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/217801.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg" group-title="ESTRENOS 🗓️", Si fueras el ultimo (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206942.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="ESTRENOS 🗓️", Cripto estafas (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="ESTRENOS 🗓️", Criptoestafas (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201924.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/o1k1cIsqYTzRyrj7zYRY6qUH7o7.jpg" group-title="ESTRENOS 🗓️", Captain Miller  (2024)
