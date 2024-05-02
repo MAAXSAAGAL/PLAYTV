@@ -1061,6 +1061,18 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/136495.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/TUmSO5EPIZAfRSOEjmbrgbTw8i.jpg" group-title="🍿 ACCION", Punto de mira (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/158035.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nQHixRI5jAAhsyTKFbSbZ5YbDzc.jpg" group-title="🍿 ACCION", Geminis (2019)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145553.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lnCO4dJqNkHi1QYJifYI92igpYa.jpg" group-title="🍿 ACCION", Mision Panama (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/166800.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5InVYa7CcbGioPvQ6ig4Lz4iLlR.jpg" group-title="🍿 ACCION", Ojos grises (2018)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/152211.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/WRTtEKVKkCKBJBVGQart22fXap.jpg" group-title="🍿 ACCION", Wunderland (2019)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="🍿 ACCION", Dunkerque (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145146.mkv
 
@@ -1076,7 +1088,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/216540.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="🍿 AVENTURA", Gran Turismo: De jugador a corredor (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 AVENTURA", Proyecto Extracción (2023)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="🍿 AVENTURA", Proyecto Extraccion (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/164383.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mUfV8e0ub6oHngppOQ4XPtV9QbE.jpg" group-title="🍿 AVENTURA", Felicidad para principiantes (2023)
@@ -1168,63 +1180,23 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/156540.mkv
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145588.mp4
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mN8TsVWd01qjnz9f4DYkw2LPJH6.jpg" group-title="🍿 PEL - Acción", Flash (2023)
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/4KoZ4uSDf2zt9xQWXZq8OWImBu1.jpg" group-title="🍿 PEL - Acción", Alma de heroe (2019)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135661.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="🍿 PEL - Acción", Miniespías: Armagedón (2018)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2188543.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="🍿 PEL - Familiares", Miniespías: Armagedón (2018)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2188543.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mIpWrkNVWDnKr8CDi8N4zIuOUMx.jpg" group-title="🍿 PEL - Acción", La misión final (2018)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2135675.mkv
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jfvBGYkwaZt6zVvza4vdfP9mCMx.jpg" group-title="🍿 PEL - Acción", Ojos grises (2018)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2120819.mkv
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jfvBGYkwaZt6zVvza4vdfP9mCMx.jpg" group-title="🍿 PEL - Ficción & Fantasia", Ojos grises (2018)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/2120819.mkv
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tfI7zoANawjtRJY3csEPsYemIEw.jpg" group-title="🍿 PEL - Bélicas", 1917 (2019)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/98457.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tfI7zoANawjtRJY3csEPsYemIEw.jpg" group-title="🍿 Historias | Documentales", 1917 (2019)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tfI7zoANawjtRJY3csEPsYemIEw.jpg" group-title="🍿 BELICAS", 1917 (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/98457.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/WRTtEKVKkCKBJBVGQart22fXap.jpg" group-title="🍿 PEL - Bélicas", Wunderland (2019)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/WRTtEKVKkCKBJBVGQart22fXap.jpg" group-title="🍿 PEL - Acción", Wunderland (2019)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/WRTtEKVKkCKBJBVGQart22fXap.jpg" group-title="🍿 BELICAS", Wunderland (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" group-title="🍿 ACCION", Atrapa almas (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/164556.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/v5ZCVgxlFmlpFnR9DWVUkOVw4hW.jpg" group-title="🍿 Historias | Documentales", Hasta el último hombre (2016)
-http://tv.proyectox.vip:8080/movie/c7audi847v/3b5rShYoDH/261288.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/lA7mNjRUZ9FLDKwqdmifU8UmAuZ.jpg" group-title="🍿 PEL - Bélicas", Sobreviviendo en el desierto (2016)
-http://magi-stv.net:8080/movie/BUZZTVAK/E9ZG2U/45391.mkv
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nq7NbZtNfIHyL1NXPV1EiG4XQ7u.jpg" group-title="🍿 PEL - Acción", El pacto (2023)
-https://ia802704.us.archive.org/5/items/el_pacto-accion/el_pacto-accion.mp4
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" group-title="🍿 PEL - Acción", Atrapa almas (2023)
-https://ia802703.us.archive.org/32/items/mision-rescste-2-accion-2023/ATRAPA4LMAS.%20%282023%29.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8ykbt5oFxeu292SMZPqZTi1jKff.jpg" group-title="🍿 PEL - Acción", Rey del anillo: La historia de Jem Belcher (2023)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159592.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tyler_Rake_2-640259780-large.jpg" group-title="🍿 PEL - Acción", Misión de rescate 2 (2023)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tyler_Rake_2-640259780-large.jpg" group-title="🍿 ACCION", Misión de rescate 2 (2023)
 https://ia802704.us.archive.org/11/items/creed-iii-accion/Mision_rescste2-accion%282023%29.mp4
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_asesino_perfecto-559141231-large.jpg" group-title="🍿 PEL - Acción", El asesino perfecto (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160535.mkv
@@ -1356,6 +1328,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/161835.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/mZ92vAEqDSMtTEx3KJw5iLOTaAA.jpg" group-title="🍿 DRAMA", Hacia la libertad (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/158685.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bsFy87N4SdpSDKYc7d21iGbEtKD.jpg" group-title="🍿 DRAMA", La forja de un campeon (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159592.mkv
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/oz60oMLIyZfkww0y4AiZ5uTNRqL.jpg" group-title="🍿 DRAMA", Centinela (2021)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/136495.mp4
