@@ -658,6 +658,10 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg" group-title="ESTRENOS 🗓️", Antares de la Luz: La secta del fin del mundo (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224553.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zO3peoe35QT5Dgfm5QUK7VEP89n.jpg" group-title="ESTRENOS 🗓️", Agencia bien de amores (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/216812.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/gQw6UuHnbRTwM1UYINZYDHEqSwZ.jpg" group-title="ESTRENOS 🗓️", Amor perruno (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224165.mkv
@@ -1422,11 +1426,22 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/134239.mp4
 
 INCIA ROMANTICAS
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 ROMANTICAS", Música (2024)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sZSf89I56LeFdBg2AugV0tDk4Qu.jpg" group-title="🍿 ROMANTICAS", Los juegos del amor  (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/211754.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 ROMANTICAS", Musica (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/221689.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zO3peoe35QT5Dgfm5QUK7VEP89n.jpg" group-title="🍿 ROMANTICAS", Agencia bien de amores (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/216812.mkv
+
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="🍿 ROMANTICAS", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg" group-title="🍿 ROMANTICAS", Cualquiera menos tu (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215922.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg" group-title="🍿 ROMANTICAS", Pobres criaturas (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215928.mkv
