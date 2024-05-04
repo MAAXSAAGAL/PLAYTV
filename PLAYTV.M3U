@@ -218,7 +218,10 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 
 Peliculas y series en vivo
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_space_m.png" group-title="Películas y Series en vivo", Space 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Películas y Series en vivo", AMC
+http://361273445780645655.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/645655.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_space_m.png" group-title="Películas y Series en vivo", Space
 http://pe.shortgod.com/awester/tv1.php?id=499
 
 
