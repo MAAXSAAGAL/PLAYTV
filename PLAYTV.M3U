@@ -218,6 +218,9 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 
 Peliculas y series en vivo
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_space_m.png" group-title="Películas y Series en vivo", Space 
+http://pe.shortgod.com/awester/tv1.php?id=499
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y Series en vivo", AXN (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
