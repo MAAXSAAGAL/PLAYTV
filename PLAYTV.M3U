@@ -263,6 +263,9 @@ http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
 http://bantel.iptvperu.tv:1935/astra/Classic/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/2560px-5StarMax_Logo.svg.png" group-title="Películas y Series en vivo", 5Star Max | ESP
+http://85494945321811515.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/811515.ts
+
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="Películas y Series en vivo", FMH Movies (EST)
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
 
@@ -361,6 +364,7 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://comunidaria.com/wp-content/uploads/2023/08/nbcuniversal-lanza-usa-network-en-peru.jpg" group-title="Entretenimiento", USA (HD)
 http://bantel.iptvperu.tv:1935/transcoderip/SYFY_t5.stream/playlist.m3u8
+
 
 
 
