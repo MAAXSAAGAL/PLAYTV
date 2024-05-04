@@ -335,6 +335,9 @@ http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="Entretenimiento", E! entertainment (EST)
 http://bantel.iptvperu.tv:1935/miscelaneos/e.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png" group-title="Entretenimiento", Azteca7
+http://197056345352820204.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/820204.ts
+
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/10/Univision_Network_Vertical1.jpg" group-title="Entretenimiento", Univision (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
