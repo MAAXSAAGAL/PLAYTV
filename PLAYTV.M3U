@@ -164,6 +164,8 @@ http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max (EST) | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159457.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max (SOLO EVENTOS) |  PE
+https://delta03.dlive.click/uituSFybQ-fqe6FolpFtAQ/1714955165/3133322e3235312e302e313831/ff508/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 1 | PE
 https://quo1.dlive.click/h4NnAg6JcUzaQKS5sBaCKw/1706952047/3133322e3138342e3132392e313735/ff118/playlist.m3u8
@@ -192,7 +194,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="Deportes", Claro Sports | MX
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/350px-DAZN_F1_logo.svg.png" group-title="Deportes", Danz F1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/350px-DAZN_F1_logo.svg.png" group-title="Deportes", Danz F1 | ES
 http://991766345735165419.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/165419.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="Deportes", TVMax | PA
