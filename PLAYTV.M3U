@@ -1762,8 +1762,11 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148243.mp4
 
 
 SOLO MARVEL
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/wHh4Or1RVzgX2GSYYfEN5HcO6xQ.jpg" group-title="FANS MARVEL", Capitan America (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3lgtlptqkLa4uvsaAqtu9adeC8i.jpg" group-title="FANS MARVEL", Capitan America: El primer vengador (2011)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/108196.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg" group-title="FANS MARVEL", Cuatro fantasticos (2015)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145842.mkv
+
 
 
 
