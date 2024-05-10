@@ -773,7 +773,8 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224553.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zO3peoe35QT5Dgfm5QUK7VEP89n.jpg" group-title="ESTRENOS 🗓️", Agencia bien de amores (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/216812.mkv
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Uq8P6MPj9Ppsns5t82AiCiUaWE.jpg" group-title="ESTRENOS 🗓️", Abigail (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/225727.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kQhrEc3bPMsc4Fjz62ScTW5R4AL.jpg" group-title="ESTRENOS 🗓️", Amor de cachorros (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224165.mkv
@@ -1258,6 +1259,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/152211.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/WRTtEKVKkCKBJBVGQart22fXap.jpg" group-title="🍿 ACCION", Wunderland (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vJXJEKg9k0tTXsAgH0V5ahMa4qO.jpg" group-title="🍿 ACCION", Tiroteo en el rio bravo (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/191844.mkv
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="🍿 ACCION", Dunkerque (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145146.mkv
 
@@ -1293,6 +1298,14 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148243.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg" group-title="🍿 AVENTURA", Togo (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/98354.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" group-title="🍿 PEL - Aventura", Atrapa almas (2023)
+https://ia802703.us.archive.org/32/items/mision-rescste-2-accion-2023/ATRAPA4LMAS.%20%282023%29.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hLVPlhfVngurxLwrI49fNJqhqJ.jpg" group-title="🍿 PEL - Aventura", La gran tormenta (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160624.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/n5i5mS1OtIyrhyl3OLlDPdvBbF7.jpg" group-title="🍿 PEL - Aventura", Los reyes del mundo (2022)
+https://ia902704.us.archive.org/31/items/aventu-drama-l-0s-reyes-del-word/Aventu_DramaL0sReyesDelWord.mp4
 
 
 INICIA BELICAS
@@ -1651,8 +1664,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160558.mkv
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162840.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_inocente-113281284-large.jpg" group-title="🍿 ROMANTICAS", El inocente (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159567.mp4
-#EXTINF:-1 tvg-logo="https://cineuropa.org/Galleries/427/103/poster_big.jpg" group-title="🍿 ROMANTICAS", Balaur (2021)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlo49R3jdkSFRYiS6Y0SFQYOorA.jpg" group-title="🍿 ROMANTICAS", La farsa (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160554.mkv
 
@@ -1811,15 +1823,7 @@ https://dn802605.us.archive.org/0/items/ment-3s-p-0d-3r-0s-4s/Ment3s_P0d3r0s4s.m
 https://ia902704.us.archive.org/25/items/los-tres-mosqueteros-d-artagnan/Los%20tres%20mosqueteros_%20D_Artagnan.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" group-title="🍿 PEL - Historias", Los tres mosqueteros D'Artagnan (2023)
 https://ia902704.us.archive.org/25/items/los-tres-mosqueteros-d-artagnan/Los%20tres%20mosqueteros_%20D_Artagnan.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/bAKCbByXeZ9UyFKIR04ry4fCQX3.jpg" group-title="🍿 PEL - Aventura", El rio bravo (2023)
-https://ia902705.us.archive.org/19/items/river-wild-aventuraaccion_202308/River%20Wild_aventura%26accion.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" group-title="🍿 PEL - Aventura", Atrapa almas (2023)
-https://ia802703.us.archive.org/32/items/mision-rescste-2-accion-2023/ATRAPA4LMAS.%20%282023%29.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9hLVPlhfVngurxLwrI49fNJqhqJ.jpg" group-title="🍿 PEL - Aventura", La gran tormenta (2022)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160624.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/n5i5mS1OtIyrhyl3OLlDPdvBbF7.jpg" group-title="🍿 PEL - Aventura", Los reyes del mundo (2022)
-https://ia902704.us.archive.org/31/items/aventu-drama-l-0s-reyes-del-word/Aventu_DramaL0sReyesDelWord.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/n5i5mS1OtIyrhyl3OLlDPdvBbF7.jpg" group-title="🍿 PEL - Drama", Los reyes del mundo (2022)
 https://ia902704.us.archive.org/31/items/aventu-drama-l-0s-reyes-del-word/Aventu_DramaL0sReyesDelWord.mp4
@@ -1834,8 +1838,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148213.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg" group-title="🍿 PEL - Acción", Tomb Raider: Las aventuras de Lara Croft (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148213.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/27iv6n8hz3W9o46jzxtP23Ccuwz.jpg" group-title="🍿 PEL - Aventura", El cuaderno de Sara (2018)
-https://ia802703.us.archive.org/32/items/mision-rescste-2-accion-2023/el_cuaderno_d_sara-aventura.mp4
+
 
 
 
@@ -1855,6 +1858,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100442.mkv
 - Terror
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Uq8P6MPj9Ppsns5t82AiCiUaWE.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", Abigail (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/225727.mkv
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bHy9CZdMeH1cnQnsTcyaGu7Yiz.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La piscina (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206588.mkv
 
@@ -1872,7 +1879,7 @@ https://ia802701.us.archive.org/25/items/reino-magico-2021-aventura/My%20House.m
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132064.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Lobo_vikingo-551785283-large.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", Lobo vikingo (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159705.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1xOSjSzY4k2MLRZ1phzYb0VJYaS.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La huérfana: Primer asesinato (2022)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1xOSjSzY4k2MLRZ1phzYb0VJYaS.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La huerfana: Primer asesinato (2022)
 https://ia802500.us.archive.org/33/items/LAHUERFANA/LAHUERFANA.mp4
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/62gIJdks9agqdYavMHJx3FlRXp9.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La maldicion: renace (2019)
@@ -1881,10 +1888,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101266.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/1BIWytsnEr2aRobU6ERutzewm63.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La llorona (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/136406.mp4
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/dSKnd0ryEwmNBHkkAzJceSmXVEB.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La maldición de la casa Winchester (2018)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/dSKnd0ryEwmNBHkkAzJceSmXVEB.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La maldicion de la casa Winchester (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137485.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", Dejame salir: ¡Huye! (2017)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", Dejame salir: Huye! (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145558.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xc0rbaze6VQQ0aOj8ju7zvdEPAx.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", El exorcista del papa (2023)
