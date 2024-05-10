@@ -767,7 +767,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/225259.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vdEtrHGY7wuJ9WTnlYkTsnklAdF.jpg" group-title="ESTRENOS 🗓️", Los desfiles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/225255.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg" group-title="ESTRENOS 🗓️", Antares de la Luz: La secta del fin del mundo (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/st3VI4lNOTB4SPsqsk91TSYMEBi.jpg" group-title="ESTRENOS 🗓️", Antares de la Luz: La secta del fin del mundo (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224553.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zO3peoe35QT5Dgfm5QUK7VEP89n.jpg" group-title="ESTRENOS 🗓️", Agencia bien de amores (2024)
@@ -775,7 +775,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/216812.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/gQw6UuHnbRTwM1UYINZYDHEqSwZ.jpg" group-title="ESTRENOS 🗓️", Amor de cachorros (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kQhrEc3bPMsc4Fjz62ScTW5R4AL.jpg" group-title="ESTRENOS 🗓️", Amor de cachorros (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224165.mkv
 
 
@@ -862,21 +862,34 @@ INICIO SAGAS
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/iy1AY6QYTomZLnMqEaUWPLZRcFg.jpg" group-title="SAGAS EPICAS ⭐", Terminator 1 (1984)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132308.mkv
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hEDCaLqmgJcQD30xaOCM5OcaQyk.jpg" group-title="SAGAS EPICAS ⭐", Una pareja explosiva (1998)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/140404.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rqquHoHee73YSV5xqAcpEf8dU2s.jpg" group-title="SAGAS EPICAS ⭐", Una pareja explosiva 2 (2001)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/140405.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/atLObz5ON2si7pKVb9j4pzuUlIy.jpg" group-title="SAGAS EPICAS ⭐", Una pareja explosiva 3 (2007)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/140406.mp4
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_todo_gas-493327751-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 1: A todo gas (2001)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/94105.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_todo_gas_2-489455297-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 2: Mas rapidos, Mas Furiosos (2003)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_todo_gas_2-489455297-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 2: A todo gas 2 (2003)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/93959.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Raapido_y_furioso_Reto_Tokio-980475990-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 3: Reto Tokio (2006)
 http://playhispano.org:8080/movie/userlw/led5120/231668.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_Aaun_maas_raapido_A_todo_gas_4-169720461-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 4: Aún más rapido (2009)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/93991.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_5_A_todo_gas_5-621975293-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 5: A todo gas (2011)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_5_A_todo_gas_5-621975293-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 5 (2011)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138029.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_6_A_todo_gas_6-311607351-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 6: A todo gas (2013)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_6_A_todo_gas_6-311607351-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 6 (2013)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/93992.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_7_A_todo_gas_7-572354425-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 7: A todo gas (2015)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_7_A_todo_gas_7-572354425-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 7 (2015)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138030.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_8-643070994-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 8: No más familia (2017)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_8-643070994-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious 8: No mas familia (2017)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/93994.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fast_Furious_Hobbs_Shaw-729732578-large.jpg" group-title="SAGAS EPICAS ⭐", Fast & Furious: Hobbs & Shaw (2019)
 http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100250.mp4
