@@ -1432,18 +1432,21 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cash-372664950-large.jpg" group-title="🍿 COMEDIA", Cash (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162933.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nJNxJdD5F3cAXglCtwjumTB5tl7.jpg" group-title="🍿 PEL - Comedia", El cuarto pasajero (2022)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nJNxJdD5F3cAXglCtwjumTB5tl7.jpg" group-title="🍿 COMEDIA", El cuarto pasajero (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160485.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlo49R3jdkSFRYiS6Y0SFQYOorA.jpg" group-title="🍿 PEL - Comedia", La farsa (2023)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlo49R3jdkSFRYiS6Y0SFQYOorA.jpg" group-title="🍿 COMEDIA", La farsa (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160554.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iB6Ksp2WKQd4YAt9T2thBqJ9rTS.jpg" group-title="🍿 PEL - Comedia", Malvada (2022)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iB6Ksp2WKQd4YAt9T2thBqJ9rTS.jpg" group-title="🍿 COMEDIA", Malvada (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160556.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qfJw2f5Cgajb1j1tUjKBfmRs0jO.jpg" group-title="🍿 PEL - Comedia", Buena suerte, Leo Grande (2022)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qfJw2f5Cgajb1j1tUjKBfmRs0jO.jpg" group-title="🍿 COMEDIA", Buena suerte, Leo Grande (2022)
 https://dn902605.us.archive.org/0/items/ment-3s-p-0d-3r-0s-4s/Leo_grand3_buena_suerte-comedia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 PEL - Comedia", Música (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 COMEDIA", Música (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/221689.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 COMEDIA", Jefa por accidente (2018)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101184.mp4
 
 
 INICIO DRAMA
@@ -1572,6 +1575,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160624.mkv
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159568.mkv
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/kBAThXpJXHcsRBX6BNz87DWYPSf.jpg" group-title="🍿 DRAMA", El curioso caso de Benjamin Button (2008)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/124588.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/2z6jtS2dVTbM73USNEewBh7kwX3.jpg" group-title="🍿 DRAMA", El maquinista (2004)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/134239.mp4
 
@@ -1611,50 +1617,51 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/188250.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/mUfV8e0ub6oHngppOQ4XPtV9QbE.jpg" group-title="🍿 ROMANTICAS", Felicidad para principiantes (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/189125.mkv
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="🍿 PEL - Romance", Amor al cuadrado otra vez (2023)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159751.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Eres_tau-240573824-large.jpg" group-title="🍿 PEL - Romance", Eres tú (2023)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160146.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amor_al_cuadrado_otra_vez-204577121-large.jpg" group-title="🍿 ROMANTICAS", Amor al cuadrado otra vez (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159751.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Eres_tau-240573824-large.jpg" group-title="🍿 ROMANTICAS", Eres tú (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160146.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/fnViTJJt6pUq44QGBhk4FJqr82o.jpg" group-title="🍿 PEL - Romance", El gran Gatsby (2013)
-https://ia802708.us.archive.org/1/items/ver-3l-gr-4n-g-4t-5by-2013-online-latino-hd/Ver%203l%20gr4n%20G4t5by%20%282013%29%20Online%20Latino%20HD%20-.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/kBAThXpJXHcsRBX6BNz87DWYPSf.jpg" group-title="🍿 PEL - Romance", El curioso caso de Benjamin Button (2008)
-https://ia802705.us.archive.org/9/items/el-cvrios-0-c-4s-0-de-benj-4min-bvtt-0n/El%20cvrios0%20c4s0%20de%20Benj4min%20Bvtt0n.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/kBAThXpJXHcsRBX6BNz87DWYPSf.jpg" group-title="🍿 PEL - Drama", El curioso caso de Benjamin Button (2008)
-https://ia802705.us.archive.org/9/items/el-cvrios-0-c-4s-0-de-benj-4min-bvtt-0n/El%20cvrios0%20c4s0%20de%20Benj4min%20Bvtt0n.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cNYLPGwhWKitGapHMWQORAoKFmi.jpg" group-title="🍿 ROMANTICAS", Un amor atemporal (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159493.mkv
 
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6JPvQXmDavOOEjnSPfwT7u8z5ls.jpg" group-title="🍿 PEL - Romance", Conoces a Joe Black (1998)
-https://ia902701.us.archive.org/29/items/c0n0c3s_4_j0e_bl4ck_romanc3fant4sia/c0n0c3s_4_j0e_bl4ck_romanc3%24fant4sia.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Querido_David-604371006-large.jpg" group-title="🍿 PEL - Romance", Querido David (2023)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159756.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cash-372664950-large.jpg" group-title="🍿 PEL - Romance", Cash (2023)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162933.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iB6Ksp2WKQd4YAt9T2thBqJ9rTS.jpg" group-title="🍿 PEL - Romance", Malvada (2022)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160556.mkv
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/iGO4hMzoDCeZCpP4BhzxOSQhOJt.jpg" group-title="🍿 PEL - Romance", Eiffel (2021)
-https://ia801404.us.archive.org/31/items/eifell-hd-l/EIFELL%5D%5BHD%5D%5BL%5D.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/slFK3WlBVjqQyFnqEBxIpck1ORA.jpg" group-title="🍿 PEL - Romance", La la land: Una historia de amor (2016)
-https://ia802704.us.archive.org/18/items/1-5055509028055024526/1_5055509028055024526.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/o9S6GW9MGyQZpRpPj65k0RIqYNL.jpg" group-title="🍿 PEL - Romance", Tangos, tequilas, y algunas mentiras (2023)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160558.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/kBAThXpJXHcsRBX6BNz87DWYPSf.jpg" group-title="🍿 ROMANTICAS", El curioso caso de Benjamin Button (2008)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/124588.mp4
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_combinaciaon_perfecta-174564354-large.jpg" group-title="🍿 PEL - Romance", Combinación perfecta (2023)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162840.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_inocente-113281284-large.jpg" group-title="🍿 PEL - Romance", El inocente (2022)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159567.mp4
-#EXTINF:-1 tvg-logo="https://cineuropa.org/Galleries/427/103/poster_big.jpg" group-title="🍿 PEL - Romance", Balaur (2021)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlo49R3jdkSFRYiS6Y0SFQYOorA.jpg" group-title="🍿 PEL - Romance", La farsa (2023)
-http://magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160554.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/n5dlw8xOtVZCuyNcchJCNvTL3Dj.jpg" group-title="🍿 PEL - Romance", Cerca del Horizonte (2019)
-https://ia601401.us.archive.org/7/items/cerca-del-horizonte_1/cerca-del-horizonte_1.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6JPvQXmDavOOEjnSPfwT7u8z5ls.jpg" group-title="🍿 ROMANTICAS", Conoces a Joe Black? (1998)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/135246.mkv
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Querido_David-604371006-large.jpg" group-title="🍿 ROMANTICAS", Querido David (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159756.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cash-372664950-large.jpg" group-title="🍿 ROMANTICAS", Cash (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162933.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iB6Ksp2WKQd4YAt9T2thBqJ9rTS.jpg" group-title="🍿 ROMANTICAS", Malvada (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160556.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/iGO4hMzoDCeZCpP4BhzxOSQhOJt.jpg" group-title="🍿 ROMANTICAS", Eiffel (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/149978.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/o9S6GW9MGyQZpRpPj65k0RIqYNL.jpg" group-title="🍿 ROMANTICAS", Tangos, tequilas, y algunas mentiras (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160558.mkv
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_combinaciaon_perfecta-174564354-large.jpg" group-title="🍿 ROMANTICAS", Combinación perfecta (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162840.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_inocente-113281284-large.jpg" group-title="🍿 ROMANTICAS", El inocente (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159567.mp4
+#EXTINF:-1 tvg-logo="https://cineuropa.org/Galleries/427/103/poster_big.jpg" group-title="🍿 ROMANTICAS", Balaur (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlo49R3jdkSFRYiS6Y0SFQYOorA.jpg" group-title="🍿 ROMANTICAS", La farsa (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160554.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uGpbOp1Lgx32VaMnngFiHvbtzt1.jpg" group-title="🍿 ROMANTICAS", Acerca del destino (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/158893.mkv
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 ROMANTICAS", Jefa por accidente (2018)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101184.mp4
 
 - Familiares
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mnnxHaQkcl7uaTdYIHhNBYEK9tz.jpg" group-title="🍿 ANIMADAS | FAMILIARES", Puedes hacerlo Chang (2023)
@@ -1825,8 +1832,6 @@ https://ia802703.us.archive.org/32/items/mision-rescste-2-accion-2023/el_cuadern
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/kDUwR5cQoydXwfejQBH42Yemyfj.jpg" group-title="🍿 PEL - Romance", Una historia de amor italiana (2021)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159493.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/2bmrIxghD2yrjV9eP0AqzpCW7uN.jpg" group-title="🍿 PEL - Drama", Los hijos de la calle (1996)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
