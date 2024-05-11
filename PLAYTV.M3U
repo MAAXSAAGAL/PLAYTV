@@ -1287,7 +1287,8 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WQ3EWu8P3mML3pV9D3PKbvfwxb.jpg" group-title="🍿 ACCION", La Jungla: Un buen dia para morir (2013)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/139896.mkv
 
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" group-title="🍿 ACCION", Pandemic (2016)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100040.mp4
 
 INICIO PELÍCULA AVENTURA
 
@@ -1321,6 +1322,14 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/164556.mkv
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160624.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/n5i5mS1OtIyrhyl3OLlDPdvBbF7.jpg" group-title="🍿 AVENTURA", Los reyes del mundo (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159734.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" group-title="🍿 AVENTURA", Los tres mosqueteros D'Artagnan (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162304.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/a8R5yw0vShsgHSjeikVcPdkaWAW.jpg" group-title="🍿 AVENTURA", Jumanji: El siguiente nivel (2019)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100895.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg" group-title="🍿 AVENTURA", Tomb Raider: Las aventuras de Lara Croft (2018)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148213.mp4
+
 
 
 INICIA BELICAS
@@ -1603,6 +1612,11 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/124588.mp4
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/2z6jtS2dVTbM73USNEewBh7kwX3.jpg" group-title="🍿 DRAMA", El maquinista (2004)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/134239.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1nTTDblwirJMMhqeJu70pAmetuK.jpg" group-title="🍿 DRAMA", Hermano (2010)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100442.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/2bmrIxghD2yrjV9eP0AqzpCW7uN.jpg" group-title="🍿 DRAMA", Los hijos de la calle (1996)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
+
 
 
 INCIA ROMANTICAS
@@ -1754,7 +1768,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/146467.mp4
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145600.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iNIKq8r155eRFlsoaxgfRYs71qY.jpg" group-title="🍿 ANIMADAS | FAMILIARES", Los increibles 2 (2018)
-
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/126641.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsaGcfQcGuRmSHfvQEbjj4gR9jP.jpg" group-title="🍿 ANIMADAS | FAMILIARES", Tadeo Jones 2: El secreto del rey Midas (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/107372.mp4
@@ -1819,47 +1833,22 @@ http://22576065863275258.ofx508.xyz:80/movie/GUEL230815/9462358BAQTG/679643.mkv
 https://ia802708.us.archive.org/8/items/la-paradoja-de-antares/La%20Paradoja%20de%20Antares.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="🍿 PEL - Ficción & Fantasia", 65: Al borde de la extinción (2023)
 https://ia902707.us.archive.org/19/items/65-2023/65%20%282023%29.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="🍿 PEL - Aventura", 65: Al borde de la extinción (2023)
-https://ia902707.us.archive.org/19/items/65-2023/65%20%282023%29.mp4
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qiJO9tqQnlOWG6LUs7ZfZpwRr5Q.jpg" group-title="🍿 PEL - Ficción & Fantasia", Venom (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101264.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" group-title="🍿 PEL - Ficción & Fantasia", Pandemic (2016)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100040.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" group-title="🍿 PEL - Acción", Pandemic (2016)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100040.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/exuFtHtIV1SbkPB6anOzhY1IfMz.jpg" group-title="🍿 PEL - Ficción & Fantasia", Paradise (2023)
-https://ia902706.us.archive.org/29/items/paradise.mp-4.mp-4/Paradise.mp4.mp4.ts
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vEVeqQBbw8bIMKtpS7nPhxaTJKb.jpg" group-title="🍿 PEL - Ficción & Fantasia", Némesis (2022)
-https://ia801504.us.archive.org/18/items/nemesis-720.mkv/N%C3%A9mesis%20-%20720.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vEVeqQBbw8bIMKtpS7nPhxaTJKb.jpg" group-title="🍿 PEL - Acción", Némesis (2022)
-https://ia801504.us.archive.org/18/items/nemesis-720.mkv/N%C3%A9mesis%20-%20720.mkv.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tkwFkWJNMA5kDWcMQnXMXH5LI4G.jpg" group-title="🍿 PEL - Ficción & Fantasia", Mentes poderosas (2018)
-https://dn802605.us.archive.org/0/items/ment-3s-p-0d-3r-0s-4s/Ment3s_P0d3r0s4s.mp4
 
 
 
 
-- Aventura
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" group-title="🍿 PEL - Aventura", Los tres mosqueteros D'Artagnan (2023)
-https://ia902704.us.archive.org/25/items/los-tres-mosqueteros-d-artagnan/Los%20tres%20mosqueteros_%20D_Artagnan.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" group-title="🍿 PEL - Historias", Los tres mosqueteros D'Artagnan (2023)
-https://ia902704.us.archive.org/25/items/los-tres-mosqueteros-d-artagnan/Los%20tres%20mosqueteros_%20D_Artagnan.mp4
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/n5i5mS1OtIyrhyl3OLlDPdvBbF7.jpg" group-title="🍿 PEL - Drama", Los reyes del mundo (2022)
-https://ia902704.us.archive.org/31/items/aventu-drama-l-0s-reyes-del-word/Aventu_DramaL0sReyesDelWord.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ec9YEtoKixNOdGc8wDHhU33kWuF.jpg" group-title="🍿 PEL - Aventura", El reino magico (2021)
-https://ia902707.us.archive.org/27/items/reino-magico-2021-aventura_202308/Reino%20Magico%20_2021_aventura.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/a8R5yw0vShsgHSjeikVcPdkaWAW.jpg" group-title="🍿 PEL - Aventura", Jumanji: El siguiente nivel (2019)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100895.mp4
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/a8R5yw0vShsgHSjeikVcPdkaWAW.jpg" group-title="🍿 PEL - Acción", Jumanji: El siguiente nivel (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100895.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg" group-title="🍿 PEL - Aventura", Tomb Raider: Las aventuras de Lara Croft (2018)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148213.mp4
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg" group-title="🍿 PEL - Acción", Tomb Raider: Las aventuras de Lara Croft (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148213.mp4
 
@@ -1869,16 +1858,14 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148213.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/2bmrIxghD2yrjV9eP0AqzpCW7uN.jpg" group-title="🍿 PEL - Drama", Los hijos de la calle (1996)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/2bmrIxghD2yrjV9eP0AqzpCW7uN.jpg" group-title="🍿 PEL - Crimen", Los hijos de la calle (1996)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/2bmrIxghD2yrjV9eP0AqzpCW7uN.jpg" group-title="🍿 PEL - Historias", Los hijos de la calle (1996)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1nTTDblwirJMMhqeJu70pAmetuK.jpg" group-title="🍿 PEL - Drama", Hermano (2010)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100442.mkv
 
 - Terror
 
