@@ -744,6 +744,9 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 - Estrenos
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="ESTRENOS 🗓️", Godzilla x Kong: El nuevo imperio (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226558.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg" group-title="ESTRENOS 🗓️", La chica de Miller (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/225257.mkv
 
@@ -1298,7 +1301,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/191844.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBqZ9Mia8kCw2REMUrhUrzRp8of.jpg" group-title="🍿 ACCION", Se busca un traidor (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBqZ9Mia8kCw2REMUrhUrzRp8of.jpg" group-title="🍿 ACCION", Bring Him Back Dead (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226552.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="🍿 ACCION", Dunkerque (2017)
@@ -1554,6 +1557,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206937.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/dl1twEgiX6xC9hZNzek9Nxv5ax9.jpg" group-title="🍿 DRAMA", 1618 (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/224212.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8XRzl7A1zLk60z1J3k2nLbsguQ.jpg" group-title="🍿 DRAMA", La hija del prisionero (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/219724.mkv
 
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg" group-title="🍿 DRAMA", Dogman (2023)
