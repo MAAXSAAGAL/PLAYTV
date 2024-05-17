@@ -191,6 +191,9 @@ http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/800px-CG_logo_final.svg.png" group-title="Deportes", Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/azteca-deportes-logo-6FC143EAD1-seeklogo.com.png" group-title="Deportes", TV Azteca Deportes
+http://bantel.iptvperu.tv:1935/transcoderip5/Az_Deportes/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="Deportes", Claro Sports | MX
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 
@@ -222,7 +225,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="Novelas", Kanal D Drama (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn44yrc/FB-IMG-1712837796259.jpg" group-title="Novelas", Te Quiero TV (EST)
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/af73595ea789aa185e8c32954887bc6842f55196e9c4fff1dc387c0a3adb4648.png" group-title="Novelas", Te Quiero TV (EST)
 http://bantel.iptvperu.tv:1935/astralocal/TEQUIEROTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2019/11/19152919/LA-ROSA-DE-GUADALUPE-480X480.png" group-title="Novelas", La Rosa de Guadalupe (EST)
@@ -231,112 +234,112 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 
 Peliculas y series en vivo
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Películas y Series en vivo", AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Peliculas y Series en vivo", AMC
 http://pltvsu.info:8080/Croy12345/EHYBAtgLYvty/333
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_space_m.png" group-title="Películas y Series en vivo", Space HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_space_m.png" group-title="Peliculas y Series en vivo", Space HD
 http://pltvsu.info:8080/Croy12345/EHYBAtgLYvty/127
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="Películas y Series en vivo", CineMax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas y Series en vivo", CineMax
 http://991766345735696989.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/696989.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="Películas y Series en vivo", Warner TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="Peliculas y Series en vivo", Warner TV
 http://991766345735321442.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/321442.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y Series en vivo", AXN (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Películas y Series en vivo", Studio Universal (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Peliculas y Series en vivo", Studio Universal (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="Películas y Series en vivo", Paramount Channel (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="Peliculas y Series en vivo", Paramount Channel (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Películas y Series en vivo", A&E (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Peliculas y Series en vivo", A&E (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" group-title="Películas y Series en vivo", Cine Premium (EST)
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" group-title="Peliculas y Series en vivo", Cine Premium (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png" group-title="Películas y Series en vivo", Cine Familiar (EST)
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png" group-title="Peliculas y Series en vivo", Cine Familiar (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal-1024x576.png" group-title="Películas y Series en vivo", Cine Hispano (EST)
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal-1024x576.png" group-title="Peliculas y Series en vivo", Cine Hispano (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-pha-AOriginal-1024x576.png" group-title="Películas y Series en vivo", Classic (EST)
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-pha-AOriginal-1024x576.png" group-title="Peliculas y Series en vivo", Classic (EST)
 http://bantel.iptvperu.tv:1935/astra/Classic/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/2560px-5StarMax_Logo.svg.png" group-title="Películas y Series en vivo", 5Star Max | ES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/2560px-5StarMax_Logo.svg.png" group-title="Peliculas y Series en vivo", 5Star Max | ES
 http://85494945321811515.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/811515.ts
 
-#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="Películas y Series en vivo", FMH Movies (EST)
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="Peliculas y Series en vivo", FMH Movies (EST)
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Películas y Series en vivo", A3S HD | ES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Peliculas y Series en vivo", A3S HD | ES
 http://85494945321321086.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/321086.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="Películas y Series en vivo", TNT SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="Peliculas y Series en vivo", TNT SD
 http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Películas y Series en vivo", Cine Canal (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Peliculas y Series en vivo", Cine Canal (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg" group-title="Películas y Series en vivo", Sony Movies (EST)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg" group-title="Peliculas y Series en vivo", Sony Movies (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="Películas y Series en vivo", Sony Cine (EST)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="Peliculas y Series en vivo", Sony Cine (EST)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Películas y Series en vivo", Star Channel (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Peliculas y Series en vivo", Star Channel (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Peliculas y Series en vivo", Golden (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Edge (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Peliculas y Series en vivo", Golden Edge (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Películas y Series en vivo", Golden Premier (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="Peliculas y Series en vivo", Golden Premier (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Películas y Series en vivo", HBO 2
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Peliculas y Series en vivo", HBO 2
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="Películas y Series en vivo", HBO Plus (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="Peliculas y Series en vivo", HBO Plus (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.png" group-title="Películas y Series en vivo", HBO Signature (EST)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.png" group-title="Peliculas y Series en vivo", HBO Signature (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" group-title="Películas y Series en vivo", HBO Family (EST)
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" group-title="Peliculas y Series en vivo", HBO Family (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Películas y Series en vivo", FX (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Peliculas y Series en vivo", FX (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Películas y Series en vivo", Universal TV (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Peliculas y Series en vivo", Universal TV (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" group-title="Películas y Series en vivo", Universal Premiere (EST)
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" group-title="Peliculas y Series en vivo", Universal Premiere (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png" group-title="Películas y Series en vivo", Universal Comedy (EST)
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png" group-title="Peliculas y Series en vivo", Universal Comedy (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_europa-europa_m.png" group-title="Películas y Series en vivo", Europa Europa HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_europa-europa_m.png" group-title="Peliculas y Series en vivo", Europa Europa HD
 http://778380845925812169.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/812169.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Películas y Series en vivo", HBO
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="Peliculas y Series en vivo", HBO
 https://vsd154.mycdn.me/hls/3978546448980.m3u8/sig/83jxb-pzMwc/expires/1694442995189/srcIp/132.251.2.163/urls/185.226.53.95/clientType/0/srcAg/CHROME_ANDROID/mid/4919282900564/video.m3u8?p
 
 
