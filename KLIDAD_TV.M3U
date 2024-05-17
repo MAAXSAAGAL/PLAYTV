@@ -1486,7 +1486,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/uXkcAw1vbLpPgW5G1C9jiW3zgRI.jpg" group-title="🍿 CRIMEN", The Jewel Thief (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/163547.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/uXkcAw1vbLpPgW5G1C9jiW3zgRI.jpg" group-title="🍿 CRIMEN", Trafficking (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sNabhIscYBSpw7M2qm8TK79jnKz.jpg" group-title="🍿 CRIMEN", Trafficking (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/211759.mkv
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rQ1i2Rd24PEQSFbLQ278YVaOuOL.jpg" group-title="🍿 CRIMEN", Infiesto (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159650.mkv
@@ -1617,6 +1619,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206594.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9Xr2PiUlJeDdSHLxSiXQZruygVg.jpg" group-title="🍿 DRAMA", La vida sigue (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201925.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sNabhIscYBSpw7M2qm8TK79jnKz.jpg" group-title="🍿 DRAMA", Trafficking (2023)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/211759.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/dD6oTAvTiIXKylQqNJmioP6gtf7.jpg" group-title="🍿 DRAMA", Balaur (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162918.mkv
