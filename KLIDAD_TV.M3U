@@ -197,8 +197,6 @@ http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/350px-DAZN_F1_logo.svg.png" group-title="Deportes", Danz F1 | ES
 http://991766345735165419.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/165419.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="Deportes", TVMax | PA
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
 
@@ -346,6 +344,7 @@ ENTRETENIMIENTO
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/12d5eb2a710a0aed3878d6f52a859965985a7de38b5a48714cd8fdb87b049429.png" group-title="Entretenimiento", Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/928400815_DistritoComedia.png.e94692cebd4eb064dbaa7158e8ff45a4.png" group-title="Entretenimiento", Distrito Comedia
 http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8
 
@@ -379,7 +378,8 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://comunidaria.com/wp-content/uploads/2023/08/nbcuniversal-lanza-usa-network-en-peru.jpg" group-title="Entretenimiento", USA (HD)
 http://bantel.iptvperu.tv:1935/transcoderip/SYFY_t5.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="Entretenimiento", TVMax | PA
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="Entretenimiento", MTV (EST)
