@@ -1579,6 +1579,10 @@ INICIO DRAMA
 - Drama
 INICIO PELÍCULA DRAMA
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg" group-title="🍿 DRAMA", Rivales (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226900.mkv
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yA4UTLrCEQ68WIc78KYcgWnb1cF.jpg" group-title="🍿 DRAMA", El Viaje (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/223174.mkv
 
@@ -1739,6 +1743,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
 
 
 INCIA ROMANTICAS
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg" group-title="🍿 ROMANTICAS", Rivales (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226900.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5LUy0JxMlCynStB2pCxTInwtjVx.jpg" group-title="🍿 ROMANTICAS", La madre de la novia (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226560.mkv
