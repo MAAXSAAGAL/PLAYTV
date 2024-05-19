@@ -247,7 +247,7 @@ http://991766345735696989.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/696989.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="Peliculas y Series en vivo", Warner TV
 http://991766345735321442.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/321442.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Películas y Series en vivo", AXN (EST)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Peliculas y Series en vivo", AXN (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Peliculas y Series en vivo", Studio Universal (EST)
@@ -1317,6 +1317,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/191844.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBqZ9Mia8kCw2REMUrhUrzRp8of.jpg" group-title="🍿 ACCION", Bring Him Back Dead (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226552.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tPmRsNX2X3Bz3byvWvGZ27n3vbl.jpg" group-title="🍿 ACCION", Pasajero oculto (2020)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137129.mp4
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="🍿 ACCION", Dunkerque (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145146.mkv
 
@@ -1384,7 +1387,6 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/161856.mkv
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162268.mkv
 
 
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/Au0rQeWo9OrEJiZPYC0zJYv7fX8.jpg" group-title="🍿 BELICAS", Sin novedad en el frente (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/157884.mkv
 
@@ -1431,6 +1433,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222534.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg" group-title="🍿 BELICAS", Sin retorno (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137335.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tPmRsNX2X3Bz3byvWvGZ27n3vbl.jpg" group-title="🍿 BELICAS", Pasajero oculto (2020)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137129.mp4
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/jmBXIR1nv1ueIBFBqKg60rLBzmQ.jpg" group-title="🍿 BELICAS", Redbad: La leyenda de los francos (2018)
@@ -2043,6 +2048,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132064.mp4
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159705.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1xOSjSzY4k2MLRZ1phzYb0VJYaS.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La huerfana: Primer asesinato (2022)
 https://ia802500.us.archive.org/33/items/LAHUERFANA/LAHUERFANA.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tPmRsNX2X3Bz3byvWvGZ27n3vbl.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", Pasajero oculto (2020)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137129.mp4
+
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/62gIJdks9agqdYavMHJx3FlRXp9.jpg" group-title="🍿 TERROR | SUSPENSO | MISTERIO", La maldicion: renace (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101266.mp4
