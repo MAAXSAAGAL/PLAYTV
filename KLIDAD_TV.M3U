@@ -1,66 +1,66 @@
 #EXTM3U
 
 CANAL LATINA OPCIONES
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="TV | PERÚ", Latina TV (EST)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="TV | PERU", Latina TV (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/latina_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERÚ", America TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERU", America TV (EST) | PE
 http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERÚ", Panamericana TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERU", Panamericana TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERÚ", TV Perú (EST) | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERU", TV Peru (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/tvperu_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="TV | PERÚ", ATV HD (EST) | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="TV | PERU", ATV HD (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1280px-ATV%2B_logo_2020.png" group-title="TV | PERÚ", ATV + (EST) | PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1280px-ATV%2B_logo_2020.png" group-title="TV | PERU", ATV + (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1024px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="TV | PERÚ", ATV Sur (EST) | PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1024px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="TV | PERU", ATV Sur (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
 GLOBAL TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/786px-Global_logo_2019.png" group-title="TV | PERÚ", Global TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/786px-Global_logo_2019.png" group-title="TV | PERU", Global TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Usmptv.png" group-title="TV | PERÚ", USMP TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Usmptv.png" group-title="TV | PERU", USMP TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvone.pe/wp-content/uploads/2024/01/LOGO%20SVG%20TEONE1.svg" group-title="TV | PERÚ", TV One (EST) | PE
+#EXTINF:-1 tvg-logo="https://tvone.pe/wp-content/uploads/2024/01/LOGO%20SVG%20TEONE1.svg" group-title="TV | PERU", TV One (EST) | PE
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERÚ", Exitosa (EST)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERU", Exitosa (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/16878.png" group-title="TV | PERÚ", Karibeña (EST)
+#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/16878.png" group-title="TV | PERU", Karibeña (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERÚ", Willax TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERU", Willax TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png" group-title="TV | PERÚ", La Tele
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png" group-title="TV | PERU", La Tele
 http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV | PERÚ", Nativa TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV | PERU", Nativa TV (EST) | PE
 https://www.ntv.pe/salida/nativa.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/Hy0eOkx.md.jpg" group-title="TV | PERÚ", Best TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://iili.io/Hy0eOkx.md.jpg" group-title="TV | PERU", Best TV (EST) | PE
 https://mi.godo.net.pe/BesTv-001120zx/index.m3u8?token=68669dc00af4121131a1c4cf4b43d3fb2ea3d600-b3ea8b153a5636365bdf83b20f5d4fa0-1713242324-1713231524&remote=132.251.3.4
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1588595013860134916/2WvjCIKP_400x400.jpg" group-title="TV | PERÚ", Trivu TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1588595013860134916/2WvjCIKP_400x400.jpg" group-title="TV | PERU", Trivu TV (EST) | PE
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1-1536x438.png" group-title="TV | PERÚ", Cable Perú TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1-1536x438.png" group-title="TV | PERU", Cable Perú TV (EST) | PE
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/0/1658343714748?e=2147483647&v=beta&t=GgTyXs0X16Ys4kO_pAAYChKk2ZUGFpbKssOkduyqLEY" group-title="TV | PERÚ", Conecta2 TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/0/1658343714748?e=2147483647&v=beta&t=GgTyXs0X16Ys4kO_pAAYChKk2ZUGFpbKssOkduyqLEY" group-title="TV | PERU", Conecta2 TV (EST) | PE
 http://bantel.iptvperu.tv:1935/astralocal/conecta2tv/playlist.m3u8
 
 
@@ -69,22 +69,22 @@ http://bantel.iptvperu.tv:1935/astralocal/conecta2tv/playlist.m3u8
 PERU REGIONES
 
 Autentica
-#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV | PERÚ (REG)", Auténtica TV | PE
+#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV | PERU (REG)", Auténtica TV | PE
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 Antares
-#EXTINF:-1 tvg-logo="https://tvlatinolibre.com/wp-content/uploads/2023/07/National-Geographic-70.png" group-title="TV | PERÚ (REG)", Antares Televisión | PE
+#EXTINF:-1 tvg-logo="https://tvlatinolibre.com/wp-content/uploads/2023/07/National-Geographic-70.png" group-title="TV | PERU (REG)", Antares Televisión | PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 Ribereña
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XLCBmk5/FB-IMG-1712750762354.jpg" group-title="TV | PERÚ (REG)", Ribereña TV | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XLCBmk5/FB-IMG-1712750762354.jpg" group-title="TV | PERU (REG)", Ribereña TV | PE
 http://bantel.iptvperu.tv:1935/Server_OTT/Riberenatv/playlist.m3u8
 
 Vision Sur
-#EXTINF:-1 tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="TV | PERÚ (REG)", Vision Sur | PE
+#EXTINF:-1 tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="TV | PERU (REG)", Vision Sur | PE
 http://bantel.iptvperu.tv:1935/astralocal/Vision_Sur/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wpVktkr/Picsart-24-04-15-21-29-39-012.png" group-title="TV | PERÚ (REG)", Ucayali TV | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wpVktkr/Picsart-24-04-15-21-29-39-012.png" group-title="TV | PERU (REG)", Ucayali TV | PE
 http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 
 
@@ -996,7 +996,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138435.mp4
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/138436.mp4
 
 - Robocop
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9q6GiFNwzkeUNgXCw5KvMVUltg8.jpg" group-title="SAGAS EPICAS ⭐", Robocop 1 (1987)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/9q6GiFNwzkeUNgXCw5KvMVUltg8.jpg" group-title="SAGAS EPICAS ⭐", Robocop (1987)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/139904.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/bmErS9eMqctVSpNaieU56SLfMEC.jpg" group-title="SAGAS EPICAS ⭐", Robocop 2 (1990)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/139906.mp4
@@ -1901,6 +1901,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/158691.mkv
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_niano_delfain-602348605-large.jpg" group-title="🍿 ANIMADAS | FAMILIARES", El niño delfin (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159583.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2IJurt2a1jReKfPCKVKV4KvL26m.jpg" group-title="🍿 ANIMADAS | FAMILIARES", Vivo (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148636.mkv
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/o8UMUSvoFdPQlQenkv4s0TSgKbG.jpg" group-title="🍿 ANIMADAS | FAMILIARES", Soul (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/156864.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/u54LDNksj5ubDkzCBk9sISfTKZj.jpg" group-title="🍿 ANIMADAS | FAMILIARES", Gru: Ha nacido un villano (2022)
