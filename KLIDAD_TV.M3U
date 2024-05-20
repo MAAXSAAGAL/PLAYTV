@@ -283,8 +283,6 @@ http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="Peliculas y Series en vivo", A3S HD | ES
 http://85494945321321086.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/321086.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="Peliculas y Series en vivo", TNT SD
-http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Peliculas y Series en vivo", Cine Canal (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/playlist.m3u8
@@ -339,6 +337,9 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Peliculas y Series en vivo", TNT HD
 http://emuligl.info:8080/live/DEMOTVPABLO2202/Atf6DSz9zcqP/128.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas y Series en vivo", TNT Series HD
+http://emuligl.info:8080/live/DEMOTVPABLO2202/Atf6DSz9zcqP/129.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_europa-europa_m.png" group-title="Peliculas y Series en vivo", Europa Europa HD
 http://778380845925812169.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/812169.ts
