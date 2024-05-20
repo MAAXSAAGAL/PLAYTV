@@ -336,6 +336,10 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Peliculas y Series en vivo", TNT HD
+http://emuligl.info:8080/live/DEMOTVPABLO2202/Atf6DSz9zcqP/128.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_europa-europa_m.png" group-title="Peliculas y Series en vivo", Europa Europa HD
 http://778380845925812169.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/812169.ts
 
