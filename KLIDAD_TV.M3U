@@ -755,6 +755,12 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 - Estrenos
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/H8UmzV4.png" group-title="ESTRENOS 🗓️", El especialista (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227188.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aEDO2naLenL8pzkzGzsrmmZkwPv.jpg" group-title="ESTRENOS 🗓️", Float (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227186.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="ESTRENOS 🗓️", El reino del planeta de los simios (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226897.mkv
 
