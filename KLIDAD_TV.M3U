@@ -758,8 +758,13 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/H8UmzV4.png" group-title="ESTRENOS 🗓️", El especialista (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227188.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aEDO2naLenL8pzkzGzsrmmZkwPv.jpg" group-title="ESTRENOS 🗓️", Float (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aEDO2naLenL8pzkzGzsrmmZkwPv.jpg" group-title="ESTRENOS 🗓️", Flotar (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227186.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFTsoeMg1gGL5OTG0jecBAqlrlM.jpg" group-title="ESTRENOS 🗓️", Atlas (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227577.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="ESTRENOS 🗓️", El reino del planeta de los simios (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226897.mkv
@@ -1201,9 +1206,13 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109441.mkv
 
 INICIO PELICULAS ACCION
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFTsoeMg1gGL5OTG0jecBAqlrlM.jpg" group-title="🍿 ACCION", Atlas (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227577.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="🍿 ACCION", Wanted Man (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226565.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/ajp91apA8TRvGRHFKIDQeix2xKx.jpg" group-title="🍿 ACCION", Combate Clandestino (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/213327.mkv
@@ -1568,7 +1577,8 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159486.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x9JXmVg42jaEB2zuIQ9zHCbZNyy.jpg" group-title="🍿 CRIMEN", Ajuste de cuentas (2019)
 http://tilinki.com:25461/movie/gpoe10988/cQ9eX/68998.mp4
 
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/2bmrIxghD2yrjV9eP0AqzpCW7uN.jpg" group-title="🍿 CRIMEN", Los hijos de la calle (1996)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="🍿 COMEDIA", Lift: Un robo de primera clase (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
@@ -2065,15 +2075,6 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100895.mp4
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148213.mp4
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/2bmrIxghD2yrjV9eP0AqzpCW7uN.jpg" group-title="🍿 PEL - Crimen", Los hijos de la calle (1996)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/2bmrIxghD2yrjV9eP0AqzpCW7uN.jpg" group-title="🍿 PEL - Historias", Los hijos de la calle (1996)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
 
@@ -3697,7 +3698,7 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/149049.mkv
 
 INICIA MISTERIO
 THE 8 SHOW 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Ae2iYVC5hEmrTQXpcwzIMpmShIk.jpg" group-title="MISTERIO", The 8 Show (2024) S01 E01 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Ae2iYVC5hEmrTQXpcwzIMpmShIk.jpg" group-title="MISTERIO", The 8 Show (2024) S01 E01
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/227199.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Ae2iYVC5hEmrTQXpcwzIMpmShIk.jpg" group-title="MISTERIO", The 8 Show (2024) S01 E02
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/227200.mkv
@@ -3935,7 +3936,7 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/143408.mkv
 - POR 13 RAZONES
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E01
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84448.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E02 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E02
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84449.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E03
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84450.mp4
@@ -3943,7 +3944,8 @@ http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84450.mp4
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84451.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E05
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84452.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E06 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84453.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E06
+http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84453.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E07
 http://2.magmas5.com:8000/series/saabj84/CNGUPDY6RA/84454.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg" group-title="MISTERIO", Por trece razones (2017) S01 E08
