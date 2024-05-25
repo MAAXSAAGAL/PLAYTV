@@ -221,6 +221,9 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/canal-2-las-estrellas-20172936.logowik.com.webp" group-title="Novelas", Las Estrellas (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Novelas", Pasiones (EST)
+http://bantel.iptvperu.tv:1935/bantel/pasiones.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="Novelas", Kanal D Drama (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/playlist.m3u8
