@@ -1577,6 +1577,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132161.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="🍿 COMEDIA", Lift: Un robo de primera clase (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xBZ7kaA.png" group-title="🍿 COMEDIA", Un lugar seguro 2 (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227573.mkv
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="🍿 COMEDIA", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="🍿 COMEDIA", Musica (2024)
@@ -1617,6 +1620,9 @@ INICIO DRAMA
 - Drama
 INICIO PELÍCULA DRAMA
 
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xBZ7kaA.png" group-title="🍿 DRAMA", Un lugar seguro 2 (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227573.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg" group-title="🍿 DRAMA", Rivales (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226900.mkv
@@ -1805,6 +1811,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226900.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5LUy0JxMlCynStB2pCxTInwtjVx.jpg" group-title="🍿 ROMANTICAS", La madre de la novia (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226560.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xBZ7kaA.png" group-title="🍿 ROMANTICAS", Un lugar seguro 2 (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227573.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5acAWyCPxAR7Q2s3sPEGiwkIjiw.jpg" group-title="🍿 ROMANTICAS", Las cosas pequeñas (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/225734.mkv
@@ -2043,7 +2052,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100459.mp4
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/123367.mp4
 
 TURCAS
-#EXTINF:-1 tvg-logo="FALTA" group-title="🍿 TURCAS", Un lugar seguro 2 (2024)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xBZ7kaA.png" group-title="🍿 TURCAS", Un lugar seguro 2 (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227573.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8wnpX7/Picsart-24-05-10-14-04-39-582.png" group-title="🍿 TURCAS", 10 dias de un buen hombre (2023)
