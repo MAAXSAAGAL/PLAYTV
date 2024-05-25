@@ -886,12 +886,6 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/hdqOqkFlig9uUTdxQKZLVQJg5Mr.jpg" group-title="ESTRENOS 🗓️", Descansar en paz (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/220340.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="ESTRENOS 🗓️", Lift: Un robo de primera clase (2024)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
-
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg" group-title="ESTRENOS 🗓️", Beekeeper (2024)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206937.mkv
 
 
 INICIO SAGAS
@@ -1223,7 +1217,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/216540.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="🍿 ACCION", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg" group-title="🍿 ACCION", Beekeeper: Sentencia de muerte (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg" group-title="🍿 ACCION", Beekeeper (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206937.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aOOja72etPNWKlpvDuPPfvuPEHa.jpg" group-title="🍿 ACCION", Mision hostil (2024)
@@ -1599,6 +1593,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162933.mkv
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160485.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vlo49R3jdkSFRYiS6Y0SFQYOorA.jpg" group-title="🍿 COMEDIA", La farsa (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160554.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg" group-title="🍿 COMEDIA", Lift: Un robo de primera clase (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203261.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/iB6Ksp2WKQd4YAt9T2thBqJ9rTS.jpg" group-title="🍿 COMEDIA", Malvada (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/160556.mkv
 
@@ -1663,7 +1660,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/161003.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/ayM8Q2QcTl1Jc1ssqWx7rv6NhHI.jpg" group-title="🍿 DRAMA", La sociedad de la nieve (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/201930.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pZ86jVOAmfNkPMjNrnSFXpkXAUx.jpg" group-title="🍿 DRAMA", Padre y soldado (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lfvyVNkTR269rD6AqLJ86ul5Uk0.jpg" group-title="🍿 DRAMA", Padre y soldado (2023)
 http://691986058515275258.ofsd5513.xyz:80/movie/GUEL230815/9462358BAQTG/679897.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/acagHfR3EWmLzW3NxS3QRyrdc7U.jpg" group-title="🍿 DRAMA", Finestkind (2023)
@@ -1858,14 +1855,6 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159493.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uCLhg7sdcadLuIzWm6tMM8J6Ms7.jpg" group-title="🍿 DRAMA", 10,000 km (2014)
 http://tilinki.com:25461/movie/gpoe10988/cQ9eX/2309.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/kBAThXpJXHcsRBX6BNz87DWYPSf.jpg" group-title="🍿 ROMANTICAS", El curioso caso de Benjamin Button (2008)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/124588.mp4
-
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6JPvQXmDavOOEjnSPfwT7u8z5ls.jpg" group-title="🍿 ROMANTICAS", Conoces a Joe Black? (1998)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/135246.mkv
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Querido_David-604371006-large.jpg" group-title="🍿 ROMANTICAS", Querido David (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159756.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cash-372664950-large.jpg" group-title="🍿 ROMANTICAS", Cash (2023)
@@ -1894,6 +1883,12 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/158893.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ufNSy3LTqNfqu3lp5o6cjouZXSD.jpg" group-title="🍿 ROMANTICAS", Jefa por accidente (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101184.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/kBAThXpJXHcsRBX6BNz87DWYPSf.jpg" group-title="🍿 ROMANTICAS", El curioso caso de Benjamin Button (2008)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/124588.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6JPvQXmDavOOEjnSPfwT7u8z5ls.jpg" group-title="🍿 ROMANTICAS", Conoces a Joe Black? (1998)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/135246.mkv
 
 - Familiares
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7QXH6T8oTKlUbKt8TD1rPimzCr.jpg" group-title="🍿 ANIMADAS | FAMILIARES", El Pajaro Loco: Lio en el campamento! (2024)
