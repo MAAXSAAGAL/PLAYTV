@@ -1364,11 +1364,16 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145146.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7LF950LVCcqboyHzCS0wgRALksK.jpg" group-title="🍿 ACCION", El hombre del corazon de hierro (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222534.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WQ3EWu8P3mML3pV9D3PKbvfwxb.jpg" group-title="🍿 ACCION", La Jungla: Un buen dia para morir (2013)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/139896.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg" group-title="🍿 ACCION", 13 Horas: Los soldados secretos de Benghazi (2016)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/913.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" group-title="🍿 ACCION", Pandemic (2016)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100040.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WQ3EWu8P3mML3pV9D3PKbvfwxb.jpg" group-title="🍿 ACCION", La Jungla: Un buen dia para morir (2013)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/139896.mkv
+
+
 
 INICIO PELÍCULA AVENTURA
 
@@ -1489,6 +1494,12 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/103048.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/tw0tphnqFx70ElN7TYmsKM8qD2r.jpg" group-title="🍿 BELICAS", Combate en el cielo (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102921.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg" group-title="🍿 BELICAS", 13 Horas: Los soldados secretos de Benghazi (2016)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/913.mkv
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/3DyGmQ53Tj4iSvYxMrj3x4o5kwy.jpg" group-title="🍿 BELICAS", 1944 (2015)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/123340.mp4
@@ -1789,6 +1800,9 @@ http://tilinki.com:25461/movie/gpoe10988/cQ9eX/3535.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cWzSjmO6Jo797HgCVm1Mfz8nHst.jpg" group-title="🍿 DRAMA", Milada (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226572.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg" group-title="🍿 DRAMA", 13 Horas: Los soldados secretos de Benghazi (2016)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/913.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rxsV36TqzDwKoQnoocwEID71TMk.jpg" group-title="🍿 DRAMA", Ninfomania 2 (2013)
