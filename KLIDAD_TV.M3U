@@ -492,10 +492,10 @@ https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/chunklist_w449945295.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dEg9AUE3CD.png" group-title="RADIOS EN VIVO", Moda
 https://16603.live.streamtheworld.com/CRP_MOD_SC?csegid=30008&dist=30008
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c9naybugfeej.png" group-title="RADIOS EN VIVO", Disney Perú
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c9naybugfeej.png" group-title="RADIOS EN VIVO", Disney Peru
 https://24233.live.streamtheworld.com/DISNEY_PER_LM.mp3
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/VZd6pyTMTY.png" group-title="RADIOS EN VIVO", Ritmo Romántica
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/VZd6pyTMTY.png" group-title="RADIOS EN VIVO", Ritmo Romantica
 https://14013.live.streamtheworld.com/CRP_RIT_SC?csegid=30008&dist=30008
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2b7cvuLrCb.png" group-title="RADIOS EN VIVO", Radio La Inolvidable
@@ -1156,6 +1156,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/132183.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9O5foYJsnf4ZXsGV1GAFdyrUtZG.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Che Guevara (1999)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/162879.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/utfeX5FvjmCjV6Y1UW4w8AudXfY.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", 12 Valientes (2018)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/3535.mkv
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/dyNtV1iZEztMa2GNpJpze8Irygu.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Ophelia (2018)
 http://playhispano.org:8080/movie/userlw/led5120/233941.mkv
 
@@ -1354,6 +1358,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/137129.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x9JXmVg42jaEB2zuIQ9zHCbZNyy.jpg" group-title="🍿 ACCION", Ajuste de cuentas (2019)
 http://tilinki.com:25461/movie/gpoe10988/cQ9eX/68998.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/utfeX5FvjmCjV6Y1UW4w8AudXfY.jpg" group-title="🍿 ACCION", 12 Valientes (2018)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/3535.mkv
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="🍿 ACCION", Dunkerque (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145146.mkv
 
@@ -1429,6 +1436,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148963.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sgUaucXoVmNdI2SyeJyPCxm0Psr.jpg" group-title="🍿 BELICAS", 1942: La Gran Ofensiva (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/151400.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/utfeX5FvjmCjV6Y1UW4w8AudXfY.jpg" group-title="🍿 BELICAS", 12 Valientes (2018)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/3535.mkv
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/6LPkJO0phMVbuNld3jzLgoQcaYI.jpg" group-title="🍿 BELICAS", Dunkerque (2017)
@@ -1776,6 +1786,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159484.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x9JXmVg42jaEB2zuIQ9zHCbZNyy.jpg" group-title="🍿 DRAMA", Ajuste de cuentas (2019)
 http://tilinki.com:25461/movie/gpoe10988/cQ9eX/68998.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/utfeX5FvjmCjV6Y1UW4w8AudXfY.jpg" group-title="🍿 DRAMA", 12 Valientes (2018)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/3535.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cWzSjmO6Jo797HgCVm1Mfz8nHst.jpg" group-title="🍿 DRAMA", Milada (2017)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226572.mkv
