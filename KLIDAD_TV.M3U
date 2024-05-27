@@ -775,6 +775,7 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226897.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="ESTRENOS 🗓️", Godzilla x Kong: El nuevo imperio (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/226558.mkv
 
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg" group-title="ESTRENOS 🗓️", La chica de Miller (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/225257.mkv
 
@@ -1226,8 +1227,13 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/213327.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/neil20KXNhdctwdoyZdVFm7Fwq0.jpg" group-title="🍿 ACCION", Damsel (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/216540.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pOXA3mRnlVnGr3X1W8FTQHXLpcw.jpg" group-title="🍿 ACCION", Civil War (2024)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/122981.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/y7hqvT7dW0eGfcJpbBQ0s90j7fx.jpg" group-title="🍿 ACCION", Juego de Roles (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/203259.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg" group-title="🍿 ACCION", Beekeeper (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/206937.mkv
@@ -1430,6 +1436,9 @@ INICIA BELICAS
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/eTTmTnGxIcdjtAzj1uzPyu1GY0R.jpg" group-title="🍿 BELICAS", Escuadron Maldito (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/222537.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pOXA3mRnlVnGr3X1W8FTQHXLpcw.jpg" group-title="🍿 BELICAS", Civil War (2024)
+http://tilinki.com:25461/movie/gpoe10988/cQ9eX/122981.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" group-title="🍿 BELICAS", Siete reyes deben morir (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/161856.mkv
