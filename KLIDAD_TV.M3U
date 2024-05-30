@@ -384,7 +384,8 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID Discovery (EST)
-http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
+http://tilinki.com:25461/gpoe10988/cQ9eX/70231
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="Entretenimiento", Turbo Discovery (EST)
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
