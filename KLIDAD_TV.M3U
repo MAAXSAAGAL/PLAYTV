@@ -1618,6 +1618,9 @@ MATANZA
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pWVScHsyHsZPjZFMi6RtIz2Gf53.jpg" group-title="🍿 CRIMEN", Matanza (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/204884.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2B5brHMhaHN1d9KmdeZI6RlU3aE.jpg" group-title="🍿 CRIMEN" Requiem por un sueno (2020)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/197851.mkv
+
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Caomo_me_hice_gaanster-417226514-large.jpg" group-title="🍿 CRIMEN", Como me hice un ganster (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159476.mkv
@@ -1783,6 +1786,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/149560.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bEVklVUbbFljZTGzub5scdIHyts.jpg" group-title="🍿 DRAMA", The Unforgivable (2021)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/149455.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2B5brHMhaHN1d9KmdeZI6RlU3aE.jpg" group-title="🍿 DRAMA" Requiem por un sueno (2020)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/197851.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/23gXLji2tc2fXUcZeGbJ3Cez5Ke.jpg" group-title="🍿 DRAMA", Bronx (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/131845.mp4
