@@ -6,7 +6,8 @@ http://bantel.iptvperu.tv:1935/cdnery/latina.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERU", America TV (EST) | PE
-http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnery/americatv.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERU", Panamericana TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
