@@ -264,7 +264,7 @@ http://991766345735321442.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/321442.ts
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Peliculas y Series en vivo", Studio Universal (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/studiouniversal/playlist.m3u8
 
 
 
