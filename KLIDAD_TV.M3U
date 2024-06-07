@@ -247,6 +247,9 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 
 Peliculas y series en vivo
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Peliculas y Series en vivo", AMC
 http://pltvsu.info:8080/Croy12345/EHYBAtgLYvty/333
 
@@ -261,7 +264,7 @@ http://tilinki.com:25461/gpoe10988/cQ9eX/619
 http://991766345735321442.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/321442.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_axn_m.png" group-title="Peliculas y Series en vivo", AXN (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/axn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" group-title="Peliculas y Series en vivo", Studio Universal (EST)
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/studiouniversal/playlist.m3u8
@@ -273,6 +276,9 @@ http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Peliculas y Series en vivo", A&E (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="Peliculas y Series en vivo", FX (EST)
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/FX/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" group-title="Peliculas y Series en vivo", Cine Premium (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
@@ -298,7 +304,7 @@ http://85494945321321086.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/321086.ts
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" group-title="Peliculas y Series en vivo", Cine Canal (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinecanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1621277720419115008/1UmRXuTh_400x400.jpg" group-title="Peliculas y Series en vivo", Sony Movies (EST)
 http://bantel-cdn1.iptvperu.tv:1935/cdnksg/sonymovies/playlist.m3u8
