@@ -128,7 +128,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="Deportes", ESPN 4 (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Espn4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="Deportes", ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
