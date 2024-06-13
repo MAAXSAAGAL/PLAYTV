@@ -134,13 +134,15 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="Deportes", ESPN 5 (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deportes", ESPN 6 (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="Deportes", ESPN 7 (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2SYvpg/Picsart-23-07-27-21-50-42-938.png" group-title="Deportes", GOL Perú (EST)
 http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
