@@ -792,10 +792,14 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 
 - Estrenos
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8RgGuC7w8JxhykauzTC4bwha1J8.jpg" group-title="ESTRENOS 🗓️", Amigos imaginarios (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/228910.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" group-title="ESTRENOS 🗓️", I.S.S (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/229059.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hstQNWXBkZUVMH7VB3VqDDhX6cX.jpg" group-title="ESTRENOS 🗓️", Furiosa: De la Saga Mad Max (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hstQNWXBkZUVMH7VB3VqDDhX6cX.jpg" group-title="ESTRENOS 🗓️", Furiosa: de la Saga Mad Max (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/228628.mkv
 
 
