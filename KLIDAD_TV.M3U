@@ -481,25 +481,25 @@ http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 http://45.166.92.22:58001/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSmvX83/nick-nickelodeon-splat-2023-logo-v2-by-markpipi-dfqz18o-414w-2x.png" group-title="Infantil", Nick (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/822px-Nick_Jr._logo_2023.svg.png" group-title="Infantil", Nick Jr (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/nickjr_t4/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnijc/nick_jr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title="Infantil", Teen Nick (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnijc/nickteen/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1024px-2019_Disney_Channel_logo.svg.png" group-title="Infantil", Disney Channel (EST)
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disneychannel/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1024px-Disney_Junior.svg.png" group-title="Infantil", Disney Jr (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="Infantil", Dreamworks (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnijc/dreamworkds.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cartoon-network5254.jpg" group-title="Infantil", Cartoon Network (EST)
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
