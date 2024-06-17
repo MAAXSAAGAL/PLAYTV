@@ -492,7 +492,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/nickjr_t4/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1024px-2019_Disney_Channel_logo.svg.png" group-title="Infantil", Disney Channel (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/disney_t4/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disneychannel/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1024px-Disney_Junior.svg.png" group-title="Infantil", Disney Jr (EST)
