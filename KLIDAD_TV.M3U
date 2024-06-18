@@ -5,15 +5,14 @@ CANAL LATINA OPCIONES
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T24bGHfs/Picsart-24-06-14-20-43-48-113.png" group-title="TV | PERU", Latina TV OP 2
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/chunks.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="TV | PERU", America TV (EST) | PE
-http://bantel-cdn1.iptvperu.tv:1935/cdnery/americatv.stream/playlist.m3u8
-
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERU", Panamericana TV (EST) | PE
 http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
@@ -23,7 +22,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperu.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="TV | PERU", ATV HD (EST) | PE
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/ATV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1280px-ATV%2B_logo_2020.png" group-title="TV | PERU", ATV + (EST) | PE
