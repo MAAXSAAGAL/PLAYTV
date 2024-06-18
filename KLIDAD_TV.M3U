@@ -15,14 +15,14 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERU", Panamericana TV (EST) | PE
-http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERU", TV Peru (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperu.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="TV | PERU", ATV HD (EST) | PE
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/ATV/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/atv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1280px-ATV%2B_logo_2020.png" group-title="TV | PERU", ATV + (EST) | PE
@@ -30,7 +30,7 @@ http://bantel-cdn1.iptvperu.tv:1935/transcoderip/atvnoticiasmovil_t6.stream/play
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1024px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="TV | PERU", ATV Sur (EST) | PE
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATVSUR/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/atvsur.stream/playlist.m3u8
 
 GLOBAL TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/786px-Global_logo_2019.png" group-title="TV | PERU", Global TV (EST) | PE
@@ -46,7 +46,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERU", Exitosa (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/16878.png" group-title="TV | PERU", Karibeña (EST)
+#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/16878.png" group-title="TV | PERU", Karibena (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERU", Willax TV (EST) | PE
