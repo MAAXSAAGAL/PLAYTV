@@ -21,7 +21,10 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERU", Panamericana TV OP 1
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERU", TV Peru (EST) | PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhbGXC1X/Picsart-24-06-19-21-04-46-298.png" group-title="TV | PERU", TV Peru (EST) | PE
+http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERU", TV Peru OP 1
 http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperu.stream/playlist.m3u8
 
 
