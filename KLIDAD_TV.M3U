@@ -107,49 +107,8 @@ http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 
 EVENTO DEPORTIVO
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="VXEF", ESL X UCR | 8AM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", TUR X POR | 11AM
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="VXEF", POL X AUS | 11AM
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="VXEF", HOL X FRA | 2PM
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="VXEF", PER X CHI | 7PM (CHILE)
-http://tilinki.com:25461/gpoe10988/cQ9eX/98678
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="VXEF", PER X CHI | 7PM (PERU)
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="VXEF", PER X CHI | 7PM (DSPORT)
-http://tilinki.com:25461/gpoe10988/cQ9eX/98493
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWBF1qH/Picsart-24-06-20-18-01-02-647.png" group-title="VXEF", ARG X CAN (EST)
-http://tilinki.com:25461/gpoe10988/cQ9eX/98485
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWBF1qH/Picsart-24-06-20-18-01-02-647.png" group-title="VXEF", ARG X CAN (EST)
-http://tilinki.com:25461/gpoe10988/cQ9eX/98468
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWBF1qH/Picsart-24-06-20-18-01-02-647.png" group-title="VXEF", ARG X CAN (EST)
-http://tilinki.com:25461/gpoe10988/cQ9eX/98493
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWBF1qH/Picsart-24-06-20-18-01-02-647.png" group-title="VXEF", ARG X CAN (EST)
-http://tilinki.com:25461/gpoe10988/cQ9eX/98500
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", PAL X VASCO (EST)
-http://tilinki.com:25461/gpoe10988/cQ9eX/98653
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", ERROR (EST)
-http://216286358894275258.otjb0606.xyz:80/GUEL230815/9462358BAQTG/855126
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", ERROR 
-https://techstreams.pro:8089/hls/hhaxabAInk7/index.m3u8?st=dSB34CsqfvbjonbgFTbibg&e=1717894441
-
-
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", ERROR (EST)
-http://tilinki.com:25461/gpoe10988/cQ9eX/112
-
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", ERROR
-http://tilinki.com:25461/gpoe10988/cQ9eX/34
 
 DEPORTES
 
