@@ -128,8 +128,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/playlist.m3u8
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145423.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwrcQYw/Picsart-23-07-27-23-01-38-733.png" group-title="Deportes", ESPN 2 (EST)
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
-
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwrcQYw/Picsart-23-07-27-23-01-38-733.png" group-title="Deportes", ESPN 2 | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
@@ -179,7 +178,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 http://991766345735165392.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/165392.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes", TUDN | MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes", VIX TUDN | MX
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes", TUDN | OP 1
