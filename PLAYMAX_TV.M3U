@@ -90,15 +90,15 @@ http://bantel.iptvperu.tv:1935/astralocal/conecta2tv/playlist.m3u8
 PERU REGIONES
 
 Autentica
-#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV | PERU (REG)", Auténtica TV | PE
+#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV | PERU (REG)", Autentica TV | PE
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 Antares
-#EXTINF:-1 tvg-logo="https://tvlatinolibre.com/wp-content/uploads/2023/07/National-Geographic-70.png" group-title="TV | PERU (REG)", Antares Televisión | PE
+#EXTINF:-1 tvg-logo="https://tvlatinolibre.com/wp-content/uploads/2023/07/National-Geographic-70.png" group-title="TV | PERU (REG)", Antares Television | PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 Ribereña
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XLCBmk5/FB-IMG-1712750762354.jpg" group-title="TV | PERU (REG)", Ribereña TV | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XLCBmk5/FB-IMG-1712750762354.jpg" group-title="TV | PERU (REG)", Riberena TV | PE
 http://bantel.iptvperu.tv:1935/Server_OTT/Riberenatv/playlist.m3u8
 
 Vision Sur
@@ -111,13 +111,14 @@ http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 
 EVENTO DEPORTIVO
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", TUR X POR | 11AM
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ARG X PERU
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ECU X VEN 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ARG X PER (EST)
 http://tilinki.com:25461/gpoe10988/cQ9eX/98493
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ECU X VEN (EST)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ARG X PER
 http://471775058809275258.otjb0606.xyz:80/GUEL230815/9462358BAQTG/781931
 
 DEPORTES
