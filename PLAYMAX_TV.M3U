@@ -1,7 +1,3 @@
-#EXTM3U
-
-https://www.bevy.be/bevyfiles/perupremium.xml.gz
-
 
 #EXTM3U
 CANAL LATINA OPCIONES
@@ -110,6 +106,9 @@ http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 
 
 EVENTO DEPORTIVO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", JAM X VEN (EST)
+http://tilinki.com:25461/gpoe10988/cQ9eX/79729
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ARG X PER (EST)
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
