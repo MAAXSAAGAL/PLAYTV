@@ -118,17 +118,6 @@ http://tilinki.com:25461/gpoe10988/cQ9eX/98493
 http://tilinki.com:25461/gpoe10988/cQ9eX/37112
 
 
-EVENTO DEPORTIVO
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", CAN X URU (EST)
-http://tilinki.com:25461/gpoe10988/cQ9eX/79332
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", CAN X URU
-http://tilinki.com:25461/gpoe10988/cQ9eX/98678
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", CAN X URU
-http://tilinki.com:25461/gpoe10988/cQ9eX/37572
-
-
-
-
 DEPORTES
 
 ESPN
@@ -174,7 +163,7 @@ http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2SYvpg/Picsart-23-07-27-21-50-42-938.png" group-title="Deportes", GOL Peru | OP 1
 http://bantel.iptvperu.tv:1935/astra/golperu/chunks.m3u8?nimblesessionid=52435514
 
-#EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" group-title="Deportes", Bein Sports Xtra Ñ (EST)
+#EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" group-title="Deportes", Bein Sports Xtra Esp (EST)
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/directv-4406.jpg" group-title="Deportes", Directv Sports
