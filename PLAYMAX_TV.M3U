@@ -51,7 +51,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERU", Exitosa (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/playlist.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/exitosa.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/16878.png" group-title="TV | PERU", Karibena (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/playlist.m3u8
@@ -109,16 +109,14 @@ http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="MLS", MLS
 http://tilinki.com:25461/gpoe10988/cQ9eX/37113
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ARG X CAN (09/07)
-http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ARG X ECU (VER)
-http://tilinki.com:25461/gpoe10988/cQ9eX/98493
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="EUROCOPA | COPA AMERICA", ARG X ECU
-http://tilinki.com:25461/gpoe10988/cQ9eX/37112
 
 
 DEPORTES
+
+LIGA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Liga_1.png" group-title="Deportes", Liga 1
+http://tilinki.com:25461/gpoe10988/cQ9eX/37577
+
 
 ESPN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN (EST)
