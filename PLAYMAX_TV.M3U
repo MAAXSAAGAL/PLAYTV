@@ -202,24 +202,11 @@ http://pe.shortgod.com/awester/tv1.php?id=801
 http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max (EST) | PE
-http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/159457.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max (SOLO EVENTOS) |  PE
-https://delta03.dlive.click/uituSFybQ-fqe6FolpFtAQ/1714955165/3133322e3235312e302e313831/ff508/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 1 | PE
-https://quo1.dlive.click/h4NnAg6JcUzaQKS5sBaCKw/1706952047/3133322e3138342e3132392e313735/ff118/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 2 | PE
-https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgnDzx/Picsart-23-07-25-23-31-26-595.png" group-title="Deportes", Liga 1 Max OP 3 | PE
-http://home-playtv.com:8080/live/102ronald000/CPJQD/499709.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="Deportes", Gol Perú (EST)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="Deportes", Gol Peru (EST)
 http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 
 
