@@ -43,12 +43,8 @@ GLOBAL TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/786px-Global_logo_2019.png" group-title="TV | PERU", Global TV (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/global.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Usmptv.png" group-title="TV | PERU", USMP TV (EST) | PE
-http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvone.pe/wp-content/uploads/2024/01/LOGO%20SVG%20TEONE1.svg" group-title="TV | PERU", TV One (EST) | PE
-https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="TV | PERU", RPP (EST) | PE
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzBW1bL/Picsart-23-07-25-23-14-22-902.png" group-title="TV | PERU", Exitosa (EST)
 http://bantel.iptvperu.tv:1935/cdntij/exitosa.stream/playlist.m3u8
@@ -61,6 +57,12 @@ http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png" group-title="TV | PERU", La Tele
 http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Usmptv.png" group-title="TV | PERU", USMP TV (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvone.pe/wp-content/uploads/2024/01/LOGO%20SVG%20TEONE1.svg" group-title="TV | PERU", TV One (EST) | PE
+https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV | PERU", Nativa TV (EST) | PE
 https://www.ntv.pe/salida/nativa.m3u8
