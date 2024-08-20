@@ -1,30 +1,16 @@
 
 #EXTM3U
-CANAL LATINA OPCIONES
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Btf9jDh/Picsart-23-07-25-22-03-26-953.png" group-title="TV | PERU", Latina TV OP 1
+CANAL LATINA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1024px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV | PERU", Latina TV | PE  
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T24bGHfs/Picsart-24-06-14-20-43-48-113.png" group-title="TV | PERU", Latina TV OP 2
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T24bGHfs/Picsart-24-06-14-20-43-48-113.png" group-title="TV | PERU", Latina TV (EST)
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHyKYX88/Picsart-24-06-19-20-32-23-712.png" group-title="TV | PERU", America TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHyKYX88/Picsart-24-06-19-20-32-23-712.png" group-title="TV | PERU", America TV | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SshPMKV9/Picsart-24-06-19-20-51-52-737.png" group-title="TV | PERU", Panamericana TV (EST) | PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SshPMKV9/Picsart-24-06-19-20-51-52-737.png" group-title="TV | PERU", Panamericana TV | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcDgf3z/Picsart-23-07-27-18-45-26-287.png" group-title="TV | PERU", Panamericana TV OP 1
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhbGXC1X/Picsart-24-06-19-21-04-46-298.png" group-title="TV | PERU", TV Peru (EST) | PE
-http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperu.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERU", TV Peru OP 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERU", TV Peru (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperu.stream/playlist.m3u8
 
 
@@ -33,7 +19,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/atv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1280px-ATV%2B_logo_2020.png" group-title="TV | PERU", ATV + (EST) | PE
-http://bantel-cdn1.iptvperu.tv:1935/transcoderip/atvnoticiasmovil_t6.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/atvnoticia.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1024px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="TV | PERU", ATV Sur (EST) | PE
