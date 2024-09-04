@@ -106,8 +106,11 @@ LIGA 1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Liga_1.png" group-title="Deportes", Liga 1
 https://bgfuzq.la10tv.com/lb/liga1max/index.m3u8?token=785e9b17f836a14be472c1d65fb84fb9a4653e28-b8e2ed29da1c6bca3cce593fdad1c416-1724106658-1724070658&remote=132.251.3.190
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Liga_1.png" group-title="Deportes", L1 Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Liga_1.png" group-title="Deportes", L1 Max (ALT)
 https://am91cm5leq.la10tv.com/lb/liga1max/index.m3u8?token=d576ec515cdf75c332ab7a9ee0f05ca529547861-401f7f4b46c572fbf81a1b12a38c90a0-1724109903-1724073903&remote=132.251.3.190
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Liga_1.png" group-title="Deportes", L1 Max 
+https://ym9yzq.la10tv.com/lb/liga1max/index.m3u8?token=70ab64b0d87d5fdd6c0ef1c35e0bef48c9db807b-dc9be3c1602ecfdcb31a5879922552c6-1725493755-1725457755&remote=132.191.2.68
 
 ESPN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN (EST)
