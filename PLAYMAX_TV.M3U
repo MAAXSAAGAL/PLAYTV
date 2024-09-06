@@ -332,11 +332,11 @@ http://clubtv.link/0509Sep/key4513/lista3.php?c=a00h&token=TecnotvSep&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Peliculas y Series en vivo", HBO 2
-http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+http://clubtv.link/0509Sep/key4513/lista3.php?c=a00i&token=TecnotvSep&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="Peliculas y Series en vivo", HBO Plus (EST)
-http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
+http://clubtv.link/0509Sep/key4513/lista3.php?c=a00j&token=TecnotvSep&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.png" group-title="Peliculas y Series en vivo", HBO Signature (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
