@@ -343,7 +343,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" group-title="Peliculas y Series en vivo", HBO Family (EST)
-http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
+http://clubtv.link/0509Sep/key4513/lista3.php?c=a00k&token=TecnotvSep&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Peliculas y Series en vivo", FX (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
