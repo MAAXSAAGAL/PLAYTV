@@ -13,6 +13,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdcp3q9/Picsart-23-07-25-22-17-48-386.png" group-title="TV | PERU", TV Peru (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperu.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="TV | PERU", M Deportes | PE
+http://tilinki.com:25461/gpoe10988/cQ9eX/98708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16fxFv3/Picsart-23-07-25-22-24-32-077.png" group-title="TV | PERU", ATV HD (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/atv.stream/playlist.m3u8
