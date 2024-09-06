@@ -597,7 +597,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3311.ts
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3529.ts
 
 - Canales Colombia
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/co_canal-uno_m.png" group-title="TV | COLOMBIA", Canal 1
+#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/co_canal-uno_m.png" group-title="TV | COLOMBIA", Canal Uno | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3570.ts
 #EXTINF:-1 tvg-logo=":https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="TV | COLOMBIA", 90 minutos | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135040.ts
