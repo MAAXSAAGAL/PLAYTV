@@ -128,7 +128,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwrcQYw/Picsart-23-07-27-23-01-38-733.png" group-title="Deportes", ESPN 2 | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145424.ts
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.244368562_ESPN3SUR.png.1e2942d0dacc05c25ea65bfca1c919fb.png" group-title="Deportes", ESPN 3 (EST)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes", ESPN 3 (EST)
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="Deportes", ESPN 4 (EST)
