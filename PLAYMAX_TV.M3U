@@ -119,7 +119,6 @@ ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN | CO
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145423.ts
 
@@ -242,9 +241,6 @@ http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/af73595ea789aa185e8c32954887bc6842f55196e9c4fff1dc387c0a3adb4648.png" group-title="Novelas", Te Quiero TV (EST)
 http://bantel.iptvperu.tv:1935/astralocal/TEQUIEROTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2019/11/19152919/LA-ROSA-DE-GUADALUPE-480X480.png" group-title="Novelas", La Rosa de Guadalupe (EST)
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-
 
 
 Peliculas y series en vivo
@@ -294,7 +290,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
 http://bantel.iptvperu.tv:1935/astra/Classic/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/2560px-5StarMax_Logo.svg.png" group-title="Peliculas y Series en vivo", 5Star Max | ES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/2560px-5StarMax_Logo.svg.png" group-title="Peliculas y Series en vivo", 5 Star Max | ES
 http://85494945321811515.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/811515.ts
 
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="Peliculas y Series en vivo", FMH Movies (EST)
@@ -443,7 +439,8 @@ http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1/playlist.m3u8
 DOCUMENTAL Y CULTURAL
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" group-title="Culturales", History (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
+http://tilinki.com:25461/gpoe10988/cQ9eX/70230
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Culturales", H2 (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
 
