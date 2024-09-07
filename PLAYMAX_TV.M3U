@@ -577,41 +577,45 @@ TVN3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ID_TVN_3_2023_1.jpg/revision/latest?cb=20230726212606&path-prefix=es" group-title="TV | CHILE", TVN3 | CHL
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?
 
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="TV | CHILE", 24 horas (ESTABLE) | CHL
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="TV | CHILE", 24 horas (ESTABLE) | CHL
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="TV | CHILE", 24 horas | CHL
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_s.png" group-title="TV | CHILE", 24 horas | CHL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3532.ts
 
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/cl_canal-13_s.png" group-title="TV | CHILE", Canal 13
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13_s.png" group-title="TV | CHILE", Canal 13
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3311.ts
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logotipo_de_LARED.svg/1024px-Logotipo_de_LARED.svg.png" group-title="TV | CHILE", La Red
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/T13_En_Vivo_2023.png" group-title="TV | CHILE", Tele 13 Chile
+https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logotipo_de_LARED.svg/1024px-Logotipo_de_LARED.svg.png" group-title="TV | CHILE", La Red
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3529.ts
 
 - Canales Colombia
-#EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/co_canal-uno_m.png" group-title="TV | COLOMBIA", Canal Uno | COL
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-uno_m.png" group-title="TV | COLOMBIA", Canal Uno | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3570.ts
-#EXTINF:-1 tvg-logo=":https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="TV | COLOMBIA", 90 minutos | COL
+#EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="TV | COLOMBIA", 90 minutos | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/135040.ts
 
-#EXTINF:-1 tvg-logo=":https://ctvbarranquilla.com/wp-content/uploads/2019/07/cropped-Logo-ctv.png" group-title="TV | COLOMBIA", CTV | COL
+#EXTINF:-1 tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2019/07/cropped-Logo-ctv.png" group-title="TV | COLOMBIA", CTV | COL
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/140371.ts
 
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="TV | COLOMBIA", Caracol TV | COL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/1093px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="TV | COLOMBIA", Caracol TV | COL
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="TV | COLOMBIA", RCN Canal | COL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="TV | COLOMBIA", RCN Canal | COL
 http://tilinki.com:25461/gpoe10988/cQ9eX/87
 
 - Canal Ecuador
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png" group-title="TV | ECUADOR", Ecuavisa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png" group-title="TV | ECUADOR", Ecuavisa
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/157405.ts
-#EXTINF:-1 tvg-logo=":https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg" group-title="TV | ECUADOR", Canal Uno | ECU
+#EXTINF:-1 tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg" group-title="TV | ECUADOR", Canal Uno | ECU
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=":https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online.png" group-title="TV | ECUADOR", TeleAmazonas
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online.png" group-title="TV | ECUADOR", TeleAmazonas
 http://2.magmas5.com:8000/ntxplay3@/HBRH13DNXH/33
 
-#EXTINF:-1 tvg-logo=":https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="TV | ECUADOR", Gamavisión | ECU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="TV | ECUADOR", Gamavisión | ECU
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/145740.ts
 
 Zapping Ecuador
