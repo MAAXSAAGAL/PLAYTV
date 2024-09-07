@@ -212,13 +212,6 @@ http://991766345735165419.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/165419.ts
 
 
 
-
-
-NOTICIAS INTERNACIONALES
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg/320px-Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg.png" group-title="Noticias Internacionales", TV Perú Internacional (EST)
-http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
-
-
 NOVELAS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4N99R5/novelisima-DOTT23.png" group-title="Novelas", Novelisima SD
@@ -442,7 +435,7 @@ DOCUMENTAL Y CULTURAL
 http://tilinki.com:25461/gpoe10988/cQ9eX/70230
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Culturales", H2 (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+http://tilinki.com:25461/gpoe10988/cQ9eX/70229
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="Culturales", Nat Geo (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
