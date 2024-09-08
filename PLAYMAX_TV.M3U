@@ -58,8 +58,7 @@ https://www.ntv.pe/salida/nativa.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/Hy0eOkx.md.jpg" group-title="TV | PERU", Best TV (EST) | PE
-https://mi.godo.net.pe/BesTv-001120zx/index.m3u8?token=68669dc00af4121131a1c4cf4b43d3fb2ea3d600-b3ea8b153a5636365bdf83b20f5d4fa0-1713242324-1713231524&remote=132.251.3.4
-
+https://ca2.inka.net.pe/BesTv-001120zx/tracks-v1a1/mono.m3u8?remote=38.250.152.132&token=1dbae93e5f2799d28ba07a959fe44da689891073-be25696747440cfe238a2fae53ecf30b-1725766598-1725755798
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1588595013860134916/2WvjCIKP_400x400.jpg" group-title="TV | PERU", Trivu TV (EST) | PE
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
