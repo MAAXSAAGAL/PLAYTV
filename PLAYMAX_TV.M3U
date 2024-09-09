@@ -253,7 +253,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnygz/studiouniversal/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="Peliculas y Series en vivo", Paramount Channel (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
+http://tilinki.com:25461/gpoe10988/cQ9eX/85
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="Peliculas y Series en vivo", A&E (EST)
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/aye/playlist.m3u8
@@ -314,17 +314,17 @@ http://tilinki.com:25461/gpoe10988/cQ9eX/62
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="Peliculas y Series en vivo", HBO Plus (EST)
-http://clubtv.link/0509Sep/key4513/lista3.php?c=a00j&token=TecnotvSep&f=.m3u8
+http://tilinki.com:25461/gpoe10988/cQ9eX/64
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="Peliculas y Series en vivo", HBO Xtreme (EST)
+http://tilinki.com:25461/gpoe10988/cQ9eX/117299
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.png" group-title="Peliculas y Series en vivo", HBO Signature (EST)
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" group-title="Peliculas y Series en vivo", HBO Family (EST)
-http://clubtv.link/0509Sep/key4513/lista3.php?c=a00k&token=TecnotvSep&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="Peliculas y Series en vivo", FX (EST)
-http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
+http://tilinki.com:25461/gpoe10988/cQ9eX/63
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="Peliculas y Series en vivo", Universal TV (EST)
