@@ -149,9 +149,11 @@ http://tilinki.com:25461/gpoe10988/cQ9eX/613
 #EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" group-title="Deportes", Bein Sports Xtra Esp (EST)
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/directv-4406.jpg" group-title="Deportes", Directv Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", D Sports
 http://tilinki.com:25461/gpoe10988/cQ9eX/98493
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", D Sports
+http://tilinki.com:25461/gpoe10988/cQ9eX/79729
 
 #EXTINF:-1 tvg-logo="https://www.latvguia.com/wp-content/uploads/2023/06/dsports-motor.jpg" group-title="Deportes", DSports Motor
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
