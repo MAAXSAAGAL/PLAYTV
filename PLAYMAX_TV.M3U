@@ -1,7 +1,6 @@
-
 #EXTM3U
 CANAL LATINA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1024px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV | PERU", Latina TV | PE  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina TV | PE  
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHyKYX88/Picsart-24-06-19-20-32-23-712.png" group-title="TV | PERU", America TV | PE
