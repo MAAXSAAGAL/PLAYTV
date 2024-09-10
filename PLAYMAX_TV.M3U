@@ -1183,6 +1183,10 @@ TERMINA SAGAS EPICAS
 INICIO PELIS DOCUMENTALES E HISTORIAS
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huqZO9JycxeUxk1kTc5jIGhUya2.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Back to Black (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/237855.mkv
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Shirley (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/219727.mkv
 
@@ -1216,6 +1220,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/135066.mp4
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/lBo8uOrBwnpPQV8jbJfjsSfH48l.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Diego Maradona (2019)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/131860.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zvGipOPJ03Vfqte6jhC6qRppNiM.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", McLaren (2017)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/145872.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hs4v44DWULjEaXOcyILX0qturQC.jpg" group-title="🍿 HISTORIAS | DOCUMENTALES", Whitney Houston: Quiero bailar con alguien (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159736.mp4
