@@ -224,14 +224,12 @@ http://tilinki.com:25461/gpoe10988/cQ9eX/116630
 http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Novelas", Pasiones (EST)
-http://bantel.iptvperu.tv:1935/bantel/pasiones.stream/playlist.m3u8
+http://tilinki.com:25461/gpoe10988/cQ9eX/86
 
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png" group-title="Novelas", Kanal D Drama (EST)
 http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/af73595ea789aa185e8c32954887bc6842f55196e9c4fff1dc387c0a3adb4648.png" group-title="Novelas", Te Quiero TV (EST)
-http://bantel.iptvperu.tv:1935/astralocal/TEQUIEROTV/playlist.m3u8
 
 
 
