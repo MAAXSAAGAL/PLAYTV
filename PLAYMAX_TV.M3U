@@ -35,6 +35,10 @@ GLOBAL TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/786px-Global_logo_2019.png" group-title="TV | PERU", Global TV (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/global.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0x61Lcy/Peru-Magico-2016-1.png" group-title="TV | PERU", Peru Magico (EST) | PE
+http://tilinki.com:25461/gpoe10988/cQ9eX/98705
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="TV | PERU", RPP (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/playlist.m3u8
 
@@ -58,6 +62,8 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w7970334.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV | PERU", Nativa TV (EST) | PE
 https://www.ntv.pe/salida/nativa.m3u8
+
+
 
 
 
