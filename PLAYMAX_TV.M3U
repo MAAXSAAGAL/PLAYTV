@@ -560,7 +560,7 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/146369.ts
 #EXTINF:-1 tvg-logo=":https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="TV | ARGENTINA", Canal de la ciudad | ARG
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3562.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Noticias Internacionales", Telefe HD | AR
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="TV | ARGENTINA", Telefe HD | AR
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/3559.ts
 
 #EXTINF:-1 tvg-logo=":https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png" group-title="TV | ARGENTINA", Telesur | ARG
@@ -1339,6 +1339,9 @@ ACCIÓN Y AVENTURA PELIS
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rrkXZSrztiHatp13WeuunX0bYbn.jpg" group-title="ACCION | AVENTURA", Rebel Ridge (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238371.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEkAY5veAnwxUOOlpF62KawkFO9.jpg" group-title="ACCION | AVENTURA", Gunner (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238640.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="ACCION | AVENTURA", The Killer (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238369.mkv
 
@@ -1794,6 +1797,8 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 
 
 -  Crimen
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEkAY5veAnwxUOOlpF62KawkFO9.jpg" group-title="CRIMEN", Gunner (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238640.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dgqKfpMX37lX321xMVgAK3CoNYf.jpg" group-title="CRIMEN", Bad Hombres (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238643.mkv
 
