@@ -112,12 +112,7 @@ DEPORTES
 http://tilinki.com:25461/gpoe10988/cQ9eX/112
 
  LIGA 1 MAX
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes", L1 MAX (EST)
-https://fonz02.dlive.click/p4YyvgC8Z5or3FpIrFWVsA/1726388193/3230302e3132332e312e3438/ff563/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes", L1 MAX
-https://am91cm5leq.la10tv.com/lb/liga1max/index.m3u8?token=cf8460d98e0a484b65046fae0ee39c78f7c14230-779d95d3c7bf36e9afcb1c8762830f11-1726393826-1726357826&remote=200.123.1.48
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes", L1 MAX (ALT)
-https://xca5.pricesaskeloadsc.com/global/l1max/index.m3u8?token=676688d1f3152cf48b955a992d94581ecfdf2f8c-b7-1726393750-1726357750
+
 
 ESPN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN (EST)
@@ -185,6 +180,9 @@ http://tilinki.com:25461/gpoe10988/cQ9eX/91009
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q8wR1QJ/pngwing-com-1.png" group-title="Deportes", Sky Sports Premier / Bundes
 http://tilinki.com:25461/gpoe10988/cQ9eX/91010
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes", EuroSport 1
+http://tilinki.com:25461/gpoe10988/cQ9eX/105872
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes", TUDN | MX
 http://tilinki.com:25461/gpoe10988/cQ9eX/119
 
@@ -203,13 +201,20 @@ http://tilinki.com:25461/gpoe10988/cQ9eX/98485
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/azteca-deportes-logo-6FC143EAD1-seeklogo.com.png" group-title="Deportes", TV Azteca Deportes
-http://bantel.iptvperu.tv:1935/transcoderip5/Az_Deportes/playlist.m3u8
+http://tilinki.com:25461/gpoe10988/cQ9eX/115894
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="Deportes", Claro Sports | MX
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="Deportes", Claro Sports
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/350px-DAZN_F1_logo.svg.png" group-title="Deportes", Danz F1 | ES
-http://991766345735165419.of51.xyz:80/play/wa48400/VhRvh8VUPHbr/165419.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/350px-DAZN_F1_logo.svg.png" group-title="Deportes", Danz F1
+http://tilinki.com:25461/gpoe10988/cQ9eX/105852
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1280px-DAZN_1_Logo.svg.png" group-title="Deportes", Danz 1
+http://tilinki.com:25461/gpoe10988/cQ9eX/105848
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="Deportes", Danz 2
+http://tilinki.com:25461/gpoe10988/cQ9eX/105849
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/1280px-DAZN_3.svg.png" group-title="Deportes", Danz 3
+http://tilinki.com:25461/gpoe10988/cQ9eX/105850
 
 
 
