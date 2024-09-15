@@ -108,6 +108,9 @@ http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 http://tilinki.com:25461/gpoe10988/cQ9eX/37113
 
 DEPORTES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes", FOX Deportes (EST)
+http://tilinki.com:25461/gpoe10988/cQ9eX/112
+
  LIGA 1 MAX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes", L1 MAX (EST)
 https://fonz02.dlive.click/p4YyvgC8Z5or3FpIrFWVsA/1726388193/3230302e3132332e312e3438/ff563/playlist.m3u8
