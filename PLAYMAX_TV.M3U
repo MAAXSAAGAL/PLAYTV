@@ -107,11 +107,12 @@ http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="MLS", MLS
 http://tilinki.com:25461/gpoe10988/cQ9eX/37113
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFsz7FCF/Picsart-24-06-20-18-28-51-402.png" group-title="AMISTOSOS", BARCELONA X MADRID
-http://tilinki.com:25461/gpoe10988/cQ9eX/37583
-
 DEPORTES
-
+ LIGA 1 MAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes", L1 MAX
+https://am91cm5leq.la10tv.com/lb/liga1max/index.m3u8?token=cf8460d98e0a484b65046fae0ee39c78f7c14230-779d95d3c7bf36e9afcb1c8762830f11-1726393826-1726357826&remote=200.123.1.48
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes", L1 MAX (ALT)
+https://xca5.pricesaskeloadsc.com/global/l1max/index.m3u8?token=676688d1f3152cf48b955a992d94581ecfdf2f8c-b7-1726393750-1726357750
 
 ESPN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN (EST)
