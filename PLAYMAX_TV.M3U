@@ -1,12 +1,14 @@
 #EXTM3U
 CANAL LATINA
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina TV | PE  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina | PE  
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America TV | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America (B) | PE
+https://live-evg25.tv360.bitel.com.pe:443/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L1m7wzg/Picsart-24-09-10-10-35-21-897.png" group-title="TV | PERU", Panamericana TV | PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L1m7wzg/Picsart-24-09-10-10-35-21-897.png" group-title="TV | PERU", Panamericana | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Rk4Jqd/Picsart-24-09-10-11-01-40-134.png" group-title="TV | PERU", TV Peru (EST) | PE
