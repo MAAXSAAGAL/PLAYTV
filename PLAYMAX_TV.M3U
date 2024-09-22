@@ -114,7 +114,8 @@ DEPORTES
 http://tilinki.com:25461/gpoe10988/cQ9eX/112
 
  LIGA 1 MAX
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", LIGA 1 (EST)
+http://tilinki.com:25461/gpoe10988/cQ9eX/120988
 
 ESPN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDBsvnR/Picsart-23-07-27-22-59-45-506.png" group-title="Deportes", ESPN (EST)
