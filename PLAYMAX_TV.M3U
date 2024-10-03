@@ -1461,9 +1461,6 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/228101.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cYRizCfDYc8D1yr01BFQDVYEejx.jpg" group-title="ACCION | AVENTURA", Gran Turismo: De jugador a corredor (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/167139.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6BZAYG6oooTLv72w9ePKvbpqDlj.jpg" group-title="ACCION | AVENTURA", The System (2022)
-http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159979.mkv
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6yc0Yn3VhWFXspIXs6gUKMjAi94.jpg" group-title="ACCION | AVENTURA", Noche sangrienta (2023)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/225260.mkv
 
@@ -1492,6 +1489,9 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/215019.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/1Op57Khovv3ANSWn3TvhMStBboV.jpg" group-title="ACCION | AVENTURA", Duna 1 (2021)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148243.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6BZAYG6oooTLv72w9ePKvbpqDlj.jpg" group-title="ACCION | AVENTURA", The System (2022)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159979.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/n7ZGJVOYzVwNaCVj0ZgToUdIex.jpg" group-title="ACCION | AVENTURA", Hell Hath No Fury (2021)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148963.mp4
@@ -1549,8 +1549,11 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159489.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zfC8bfoMZhaCxswi41CjesysfhZ.jpg" group-title="ACCION | AVENTURA", Asesino sin memoria (2022)
 https://ia601508.us.archive.org/14/items/asesino-sin-memoria_202208/Asesino%20sin%20memoria.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qzHBLdSrmvTNYsUJOP4O9A2c69U.jpg" group-title="ACCION | AVENTURA", La Cima(2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qzHBLdSrmvTNYsUJOP4O9A2c69U.jpg" group-title="ACCION | AVENTURA", La Cima (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/211753.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qzHBLdSrmvTNYsUJOP4O9A2c69U.jpg" group-title="ACCION | AVENTURA", Finch (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148816.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ovgNfybarNvW6feJUch0afO73Bx.jpg" group-title="ACCION | AVENTURA", Liberanos del mal (2020)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/159486.mkv
