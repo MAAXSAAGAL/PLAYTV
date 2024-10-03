@@ -780,6 +780,9 @@ http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148789.ts
 
 
 - Estrenos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3KuLDrTvs77vVN0u49AZ7Nxuhhz.jpg" group-title="ESTRENOS 🗓️", Rez Ball (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/239895.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yV7YWPKH2OWboyAlkZ46gp75Y4j.jpg" group-title="ESTRENOS 🗓️", Tokunbo (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/237648.mkv
 
@@ -1981,7 +1984,11 @@ INICIO DRAMA
 - Drama
 INICIO PELÍCULA DRAMA
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2EakDxV1m1TvTuhthGeROII4nQL.jpg" group-title="DRAMA", Dìdi (弟弟) (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3KuLDrTvs77vVN0u49AZ7Nxuhhz.jpg" group-title="DRAMA", Rez Ball (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/239895.mkv
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2EakDxV1m1TvTuhthGeROII4nQL.jpg" group-title="DRAMA", Didi (弟弟) (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/239598.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2dzbKNXxSt9ai8cjVOem81pj1fA.jpg" group-title="DRAMA", Birds Flying East (2024)
