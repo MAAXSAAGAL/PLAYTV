@@ -1552,7 +1552,7 @@ https://ia601508.us.archive.org/14/items/asesino-sin-memoria_202208/Asesino%20si
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qzHBLdSrmvTNYsUJOP4O9A2c69U.jpg" group-title="ACCION | AVENTURA", La Cima (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/211753.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qzHBLdSrmvTNYsUJOP4O9A2c69U.jpg" group-title="ACCION | AVENTURA", Finch (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="ACCION | AVENTURA", Finch (2021)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148816.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/ovgNfybarNvW6feJUch0afO73Bx.jpg" group-title="ACCION | AVENTURA", Liberanos del mal (2020)
@@ -2146,6 +2146,8 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/221683.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rFQcZWxHyCwBlnbnjXWTvoExqBo.jpg" group-title="DRAMA", Mother Teresa & Me (2022)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/239285.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="DRAMA", Finch (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148816.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bFhsY6ReinwDYCVqwdlZjfQpSsH.jpg" group-title="DRAMA", Palmer (2021)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/134484.mp4
@@ -2696,10 +2698,14 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/227573.mkv
 http://22576065863275258.ofx508.xyz:80/movie/GUEL230815/9462358BAQTG/679643.mkv
 
 
+FICCION
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qiJO9tqQnlOWG6LUs7ZfZpwRr5Q.jpg" group-title="🍿 PEL - Ficción & Fantasia", Venom (2018)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="FICCION | FANTASIA", Finch (2021)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/148816.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qiJO9tqQnlOWG6LUs7ZfZpwRr5Q.jpg" group-title="FICCION | FANTASIA", Venom (2018)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/101264.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" group-title="🍿 PEL - Ficción & Fantasia", Pandemic (2016)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" group-title="FICCION | FANTASIA", Pandemic (2016)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/100040.mp4
 
 
