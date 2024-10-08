@@ -1353,6 +1353,8 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109441.mkv
 
 ACCIÓN Y AVENTURA PELIS
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" group-title="ACCION | AVENTURA", Outlaw (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238872.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rrkXZSrztiHatp13WeuunX0bYbn.jpg" group-title="ACCION | AVENTURA", Rebel Ridge (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238371.mkv
@@ -1822,6 +1824,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 
 
 -  Crimen
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" group-title="CRIMEN", Outlaw (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238872.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEkAY5veAnwxUOOlpF62KawkFO9.jpg" group-title="CRIMEN", Gunner (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238640.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dgqKfpMX37lX321xMVgAK3CoNYf.jpg" group-title="CRIMEN", Bad Hombres (2024)
@@ -1996,8 +2002,11 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/239858.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3KuLDrTvs77vVN0u49AZ7Nxuhhz.jpg" group-title="DRAMA", Rez Ball (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/239895.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" group-title="DRAMA", Outlaw (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238872.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2EakDxV1m1TvTuhthGeROII4nQL.jpg" group-title="DRAMA", Didi (弟弟) (2024)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2EakDxV1m1TvTuhthGeROII4nQL.jpg" group-title="DRAMA", Didi (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/239598.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2dzbKNXxSt9ai8cjVOem81pj1fA.jpg" group-title="DRAMA", Birds Flying East (2024)
