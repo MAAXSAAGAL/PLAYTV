@@ -1353,6 +1353,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/109441.mkv
 
 ACCIÓN Y AVENTURA PELIS
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg" group-title="ACCION | AVENTURA", Duchess (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/240198.mkv
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" group-title="ACCION | AVENTURA", Outlaw (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238872.mkv
 
@@ -1827,6 +1831,10 @@ http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/102710.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" group-title="CRIMEN", Outlaw (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238872.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg" group-title="CRIMEN", Duchess (2024)
+http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/240198.mkv
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEkAY5veAnwxUOOlpF62KawkFO9.jpg" group-title="CRIMEN", Gunner (2024)
 http://2.magmas5.com:8000/movie/saabj84/CNGUPDY6RA/238640.mp4
