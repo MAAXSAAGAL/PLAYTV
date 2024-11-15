@@ -2,6 +2,8 @@
 CANAL LATINA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina | PE  
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina (W) | PE  
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/0-20-hls/storage.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLatina_WIN_stream_vo&_cdn_meta=server%3Dhttp%2CuserID%3D40610292%2CdeviceID%3D1071543334&_cdn_session=1577325604&_cdn_timestamp=1732143488&duration=4200&start=1731708000&_cdn_token=aae86b1ffa1da5e5d17b2b83d91ae3472d2bab30
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
