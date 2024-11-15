@@ -53,8 +53,8 @@ http://bantel.iptvperu.tv:1935/cdntij/exitosa.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/16878.png" group-title="TV | PERU", Karibena (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERU", Willax TV (EST) | PE
-http://tilinki.com:25461/gpoe10988/cQ9eX/98722
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_04/large.Willax.png.ef4c9a9180a69aa6b2fb0c38d5b0fec6.png" group-title="TV | PERU", Willax TV (W) | PE
+https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3AWillax_WIN&content-expiration=1732319220&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=132.251.2.107&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1732319220&signature-hash=db3cd9bb1ef248e8b13f1250f92bd4e66af1f1a6509311c6630e1ac1daf09385
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png" group-title="TV | PERU", La Tele
 http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
