@@ -29,7 +29,8 @@ http://tilinki.com:25461/gpoe10988/cQ9eX/98708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QDVghYX/Picsart-24-09-10-10-47-23-945.png" group-title="TV | PERU", ATV HD (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/atv.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QDVghYX/Picsart-24-09-10-10-47-23-945.png" group-title="TV | PERU", ATV HD (W) | PE
+https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3AATV_WIN&content-expiration=1732540440&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=132.191.3.172&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1732540440&signature-hash=7b72e6c027585de59524ce43988c8564b4af30b89f0b9a8c95cb29e53acfb0d4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DGw3S9/Picsart-24-09-10-10-51-05-582.png" group-title="TV | PERU", ATV + (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/atvnoticia.stream/playlist.m3u8
