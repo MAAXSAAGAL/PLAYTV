@@ -3,14 +3,14 @@ CANAL LATINA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina | PE  
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina (W) | PE  
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLatina_WIN_stream_vo&_cdn_session=1577508932&_cdn_timestamp=1732146209&_cdn_token=4423c2554364ef0abce2580e13498f29596b542b
+https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3ALatina_WIN&content-expiration=1732841340&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=132.251.2.39&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1732841340&signature-hash=3794127e06b55d70330c858d59af63750dcf7330ba2143335711965e6cbbc668
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America (B) | PE
 https://live-evg25.tv360.bitel.com.pe:443/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America (W) | PE
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=1577199988&_cdn_timestamp=1732141293&_cdn_token=c7046f99a8349fcdf4d7502050374158e0c71cca
+https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3AAmericaTV_WIN&content-expiration=1732841400&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=132.251.2.39&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1732841400&signature-hash=38f2c00a37b311116cf912ecceaca440ba0cded605c147385591b51a6e6ab7a5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L1m7wzg/Picsart-24-09-10-10-35-21-897.png" group-title="TV | PERU", Panamericana | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
@@ -23,8 +23,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperu.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1126px-Identidad_Peruana_ipe_2020.png" group-title="TV | PERU", Canal iPE (EST) | PE
 http://2.magmas5.com:8000/live/saabj84/CNGUPDY6RA/148542.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dgW6b7R/Picsart-24-09-10-10-42-10-969.png" group-title="TV | PERU", M Deportes | PE
-http://tilinki.com:25461/gpoe10988/cQ9eX/98708
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QDVghYX/Picsart-24-09-10-10-47-23-945.png" group-title="TV | PERU", ATV HD (EST) | PE
@@ -34,7 +32,8 @@ https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3AATV_WIN&cont
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DGw3S9/Picsart-24-09-10-10-51-05-582.png" group-title="TV | PERU", ATV + (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/atvnoticia.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DGw3S9/Picsart-24-09-10-10-51-05-582.png" group-title="TV | PERU", ATV + (W) | PE
+https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3AATV_Noticias_WIN&content-expiration=1732841400&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=132.251.2.39&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1732841400&signature-hash=6978d81a01ef88af5bba4197ae0538efdff4faf9a49199de459c0011a181d154
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1024px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="TV | PERU", ATV Sur (EST) | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/atvsur.stream/playlist.m3u8
@@ -254,7 +253,8 @@ http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/playlist.m3u8
 
 Peliculas y series en vivo
 
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="Peliculas y Series en vivo", RunTime
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6684374320f405b792a3b6b3.m3u8?X-Plex-Session-Identifier=lds7qljjgki4czdl1mioxoeo&X-Plex-Product=Plex%20Web&X-Plex-Version=4.141.0&X-Plex-Client-Identifier=63cidwqw3airqxq00bnrzag7&X-Plex-Platform=Chrome&X-Plex-Platform-Version=130.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Android&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=980x1922%2C360x800&X-Plex-Token=pszrkYCJsKHb83fE2JMG&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=a6a36dc7-1929-402c-8ce6-ef80ffbe6a48&X-Plex-Playback-Session-Id=96bd20a4-ce67-43ff-82fa-e22474f921a7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Peliculas y Series en vivo", AMC
 http://tilinki.com:25461/gpoe10988/cQ9eX/70395
