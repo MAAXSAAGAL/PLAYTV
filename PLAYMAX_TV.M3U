@@ -2,16 +2,16 @@
 CANAL LATINA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina | PE  
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/latina.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina (W) | PE  
-https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3ALatina_WIN&content-expiration=1732841340&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=132.251.2.39&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1732841340&signature-hash=3794127e06b55d70330c858d59af63750dcf7330ba2143335711965e6cbbc668
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina (B) | PE  
+https://live-evg1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9d6pC3/Picsart-24-09-10-09-53-05-462.png" group-title="TV | PERU", Latina (W) | PE
+https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3ALatina_WIN&content-expiration=1733702700&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=201.230.136.92&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1733702700&signature-hash=af8c9f2025ef15a51324879ef9a26732904fd17b1d010a44c100f7fd55be3912
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America (B) | PE
 https://live-evg25.tv360.bitel.com.pe:443/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America (W) | PE
-https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3AAmericaTV_WIN&content-expiration=1732841400&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=132.251.2.39&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1732841400&signature-hash=38f2c00a37b311116cf912ecceaca440ba0cded605c147385591b51a6e6ab7a5
-
+https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3AAmericaTV_WIN&content-expiration=1733702700&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=201.230.136.92&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1733702700&signature-hash=0f60209bf9d43bdd306ab935728f44eed09db1d294b5b53765ce5e652760f46c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L1m7wzg/Picsart-24-09-10-10-35-21-897.png" group-title="TV | PERU", Panamericana | PE
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L1m7wzg/Picsart-24-09-10-10-35-21-897.png" group-title="TV | PERU", Panamericana (W) | PE
