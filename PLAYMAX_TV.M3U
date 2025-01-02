@@ -12,8 +12,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzBpTbd/Picsart-24-09-10-09-58-04-294.png" group-title="TV | PERU", America (W) | PE
 https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3AAmericaTV_WIN&content-expiration=1733702700&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=201.230.136.92&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1733702700&signature-hash=0f60209bf9d43bdd306ab935728f44eed09db1d294b5b53765ce5e652760f46c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L1m7wzg/Picsart-24-09-10-10-35-21-897.png" group-title="TV | PERU", Panamericana | PE
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/panamericana.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L1m7wzg/Picsart-24-09-10-10-35-21-897.png" group-title="TV | PERU", Panamericana (B) | PE
+https://live-evg1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L1m7wzg/Picsart-24-09-10-10-35-21-897.png" group-title="TV | PERU", Panamericana (W) | PE
 https://stream.srv.win.moderntv.eu/stream.m3u8?content-id=channel%3APanamerica_WIN&content-expiration=1732503000&user-id=40610292&device-id=1071543334&device-type=web&signature-ip=132.191.3.238&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&lang=es&signature-expiration=1732503000&signature-hash=bd0ab79f0d7439389a6dc0cc35db72cf89074e6131afda8173ab384320b366e2
 
